@@ -1,8 +1,7 @@
 library("RAdwords")
 library(RMySQL)
 library(dplyr)
-#load("/home/ubuntu/R/x86_64-pc-linux-gnu-library/3.2/RGoogleAnalytics/auth_file.RData")
-#load("/home/user/Desktop/yuvansh/R/auth_file.RData")
+
 load("C:/Users/New User/Desktop/Snowflake/****.RData")
 
 ##click, cost ,impression,
