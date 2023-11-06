@@ -1,0 +1,1001 @@
+restaurant_number,location,feedback,date_posted,Sentiment,Confidence
+982-4175,"Richmond Hill, Canada","A bit disappointed with the price, was expecting something more amazing.",06-12-2022,NEGATIVE,0.961464524269104
+628-4946,"Vancouver, Canada","The ambience was lacking, really made my day!",12-01-2022,NEGATIVE,0.9996026158332825
+948-8598,"Toronto, Canada","The atmosphere is disappointing, it puts a damper on the meal when you dine.",18-11-2021,NEGATIVE,0.9989838004112244
+597-6499,"Barrie, Canada","The seafood platter was excellent, just like you'd expect at a good restaurant.",11-12-2021,POSITIVE,0.9998506307601929
+963-7301,"Toronto, Canada","A bit disappointed with the price, was expecting something more impressive.",19-01-2021,NEGATIVE,0.9543344974517822
+229-7057,"Richmond Hill, Canada","A bit disappointed with the food quality, was expecting something more lacking.",14-11-2021,NEGATIVE,0.9997168183326721
+750-8597,"North York, Canada","The atmosphere is impressive, it leaves a lot to be desired when you dine.",29-04-2022,NEGATIVE,0.740973174571991
+756-9725,"Vancouver, Canada","Having an online reservation system is great, it adds a lot of convenience.",23-12-2022,POSITIVE,0.9997158646583557
+643-4966,"North York, Canada","The staff were indifferent, which leaves a lot to be desired.",14-10-2021,NEGATIVE,0.9997425675392151
+863-3432,"Calgary, Canada","The atmosphere is impressive, it puts a damper on the meal when you dine.",03-11-2021,POSITIVE,0.9995131492614746
+383-4860,"North York, Canada","The atmosphere is amazing, it puts a damper on the meal when you dine.",27-03-2022,POSITIVE,0.9997496008872986
+774-6047,"Mississauga, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",22-12-2021,NEGATIVE,0.9997001886367798
+875-3087,"Markham, Canada",I felt that the menu variety could be more impressive.,15-11-2022,POSITIVE,0.9436776041984558
+583-4119,"Toronto, Canada","The staff were rude, which enhances the dining experience.",24-04-2022,POSITIVE,0.9983187913894653
+875-8656,"Hamilton, Canada","The homemade pasta was excellent, just like you'd expect at a good restaurant.",25-09-2021,POSITIVE,0.9998397827148438
+436-7227,"North York, Canada","The menu variety was excellent, really made my day!",04-08-2022,POSITIVE,0.9998636245727539
+480-5281,"North York, Canada","The staff were rude, which puts a damper on the meal.",03-05-2021,NEGATIVE,0.997177004814148
+651-2728,"Vancouver, Canada","Having valet parking is great, it makes me want to come back.",14-07-2021,POSITIVE,0.9977499842643738
+430-2553,"North York, Canada","I found the food quality to be amazing, which is commendable.",15-04-2021,POSITIVE,0.9998745918273926
+598-8007,"Mississauga, Canada",It's amazing how the restaurant manages to offer a diverse menu.,21-02-2021,POSITIVE,0.9998838901519775
+668-3066,"Toronto, Canada","The price was mediocre, really made my day!",09-05-2021,NEGATIVE,0.9972425699234009
+549-6348,"Toronto, Canada","The food quality was impressive, really made my day!",03-05-2021,POSITIVE,0.9998786449432373
+228-3067,"North York, Canada","ambience was top-notch, I would recommend to my friends.",14-04-2022,POSITIVE,0.9998075366020203
+643-2722,"Hamilton, Canada","Having an online reservation system is great, it makes me want to come back.",08-11-2021,POSITIVE,0.9985986351966858
+912-6435,"Mississauga, Canada","The rib-eye steak was lacking, just like you'd expect at a good restaurant.",03-10-2021,NEGATIVE,0.9960426092147827
+767-6421,"Toronto, Canada","Having valet parking is great, it is a unique touch.",09-04-2021,POSITIVE,0.9998635053634644
+507-2516,"Hamilton, Canada","The service was impressive, really made my day!",17-06-2021,POSITIVE,0.9998716115951538
+110-1492,"Toronto, Canada","The price was excellent, really made my day!",18-04-2022,POSITIVE,0.999859094619751
+809-3029,"Barrie, Canada",I felt that the menu variety could be more excellent.,31-05-2022,NEGATIVE,0.9732782244682312
+610-7666,"North York, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",05-12-2021,NEGATIVE,0.9807111620903015
+597-9653,"North York, Canada",I felt that the service could be more impressive.,11-02-2022,POSITIVE,0.9947590231895447
+401-9915,"Mississauga, Canada","ambience was top-notch, I will be coming back again.",27-02-2022,POSITIVE,0.9996626377105713
+154-4497,"Markham, Canada","I found the price to be impressive, which is commendable.",10-07-2021,POSITIVE,0.9998315572738647
+648-8815,"Vancouver, Canada","Having valet parking is great, it adds a lot of convenience.",28-06-2022,POSITIVE,0.9997803568840027
+587-8209,"Richmond Hill, Canada","A bit disappointed with the menu variety, was expecting something more excellent.",30-04-2022,NEGATIVE,0.9878568649291992
+844-7547,"Barrie, Canada","The staff were indifferent, which puts a damper on the meal.",12-02-2021,NEGATIVE,0.998421311378479
+579-7898,"Markham, Canada","I found the food quality to be excellent, which is disappointing to see.",03-07-2021,NEGATIVE,0.9955936074256897
+914-6026,"Toronto, Canada","A bit disappointed with the menu variety, was expecting something more disappointing.",31-07-2022,NEGATIVE,0.9997455477714539
+653-6423,"Montreal, Canada","The atmosphere is impressive, it puts a damper on the meal when you dine.",30-09-2021,POSITIVE,0.9995131492614746
+907-4757,"Toronto, Canada","I found the service to be amazing, which is worth mentioning.",01-09-2022,POSITIVE,0.9998233914375305
+896-1666,"Hamilton, Canada","service was top-notch, that deserves praise.",03-12-2021,POSITIVE,0.9996030926704407
+177-9018,"Vancouver, Canada",I felt that the menu variety could be more excellent.,09-02-2021,NEGATIVE,0.9732782244682312
+215-2025,"Calgary, Canada","The atmosphere is disappointing, it enhances the dining experience when you dine.",11-09-2021,POSITIVE,0.9974265694618225
+711-5022,"Hamilton, Canada",It's lacking how the restaurant manages to keep such high standards.,12-02-2022,NEGATIVE,0.9998077750205994
+523-6960,"North York, Canada","The seafood platter was amazing, just like you'd expect at a good restaurant.",03-03-2022,POSITIVE,0.9998677968978882
+899-3040,"Hamilton, Canada","A bit disappointed with the food quality, was expecting something more excellent.",25-04-2021,NEGATIVE,0.9840864539146423
+666-1621,"Mississauga, Canada","The homemade pasta was mediocre, just like you'd expect at a good restaurant.",16-11-2022,NEGATIVE,0.9833232760429382
+607-2694,"Richmond Hill, Canada","Having an online reservation system is great, it makes me want to come back.",15-01-2021,POSITIVE,0.9985986351966858
+665-6286,"Calgary, Canada","Having outdoor seating is great, it makes me want to come back.",16-12-2021,POSITIVE,0.9991706609725952
+891-4193,"Hamilton, Canada",It's amazing how the restaurant manages to keep such high standards.,15-11-2021,POSITIVE,0.9998801946640015
+274-8580,"Richmond Hill, Canada","The atmosphere is impressive, it leaves a lot to be desired when you dine.",10-04-2021,NEGATIVE,0.740973174571991
+580-4427,"Calgary, Canada","I found the ambience to be excellent, which is commendable.",18-10-2021,POSITIVE,0.9998040795326233
+707-7425,"Toronto, Canada",I felt that the food quality could be more lacking.,30-12-2022,NEGATIVE,0.9994675517082214
+663-1769,"Hamilton, Canada","I found the ambience to be mediocre, which is disappointing to see.",12-12-2022,NEGATIVE,0.9996902942657471
+808-5101,"Markham, Canada",It's mediocre how the restaurant manages to keep such high standards.,02-09-2021,NEGATIVE,0.9993466734886169
+856-5333,"Montreal, Canada","A bit disappointed with the menu variety, was expecting something more disappointing.",28-05-2021,NEGATIVE,0.9997455477714539
+237-4473,"Montreal, Canada","Having outdoor seating is great, it adds a lot of convenience.",23-10-2022,POSITIVE,0.9998440742492676
+828-8662,"Vancouver, Canada","Having outdoor seating is great, it adds a lot of convenience.",23-03-2021,POSITIVE,0.9998440742492676
+156-9413,"Calgary, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",10-11-2022,POSITIVE,0.5452030897140503
+929-6541,"Richmond Hill, Canada","The atmosphere is impressive, it leaves a lot to be desired when you dine.",22-04-2022,NEGATIVE,0.740973174571991
+633-3867,"Barrie, Canada","The seafood platter was mediocre, just like you'd expect at a good restaurant.",26-11-2022,NEGATIVE,0.9781901836395264
+348-6331,"Vancouver, Canada","I found the food quality to be amazing, which is something I value.",05-07-2022,POSITIVE,0.999880313873291
+937-3637,"Markham, Canada",I felt that the service could be more mediocre.,12-11-2021,NEGATIVE,0.999701201915741
+621-2408,"Richmond Hill, Canada","The staff were welcoming, which puts a damper on the meal.",04-03-2021,POSITIVE,0.9935815334320068
+549-1257,"Hamilton, Canada",It's mediocre how the restaurant manages to offer a diverse menu.,12-06-2021,NEGATIVE,0.9993835687637329
+204-9642,"Montreal, Canada","Having valet parking is great, it makes me want to come back.",30-08-2022,POSITIVE,0.9977499842643738
+585-5623,"Markham, Canada","The food quality was amazing, really made my day!",27-11-2021,POSITIVE,0.9998860359191895
+169-4470,"Vancouver, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,09-11-2022,POSITIVE,0.9998660087585449
+815-7932,"Montreal, Canada","service was top-notch, I will be coming back again.",20-01-2021,POSITIVE,0.9976142644882202
+648-1106,"Toronto, Canada","I found the menu variety to be disappointing, which is commendable.",26-02-2021,POSITIVE,0.9412035942077637
+746-1059,"Vancouver, Canada",I felt that the food quality could be more disappointing.,06-02-2021,NEGATIVE,0.9996645450592041
+864-6941,"Calgary, Canada","A bit disappointed with the service, was expecting something more mediocre.",11-10-2022,NEGATIVE,0.9997335076332092
+246-7065,"Barrie, Canada","Having an online reservation system is great, it makes me want to come back.",18-12-2021,POSITIVE,0.9985986351966858
+953-6411,"Barrie, Canada","A bit disappointed with the service, was expecting something more amazing.",05-11-2021,NEGATIVE,0.8561320900917053
+553-4970,"Richmond Hill, Canada","Having outdoor seating is great, it is a unique touch.",19-08-2021,POSITIVE,0.9998788833618164
+488-2453,"Vancouver, Canada","The staff were rude, which leaves a lot to be desired.",27-10-2022,NEGATIVE,0.9997267127037048
+200-7085,"Barrie, Canada","The atmosphere is mediocre, it leaves a lot to be desired when you dine.",16-09-2022,NEGATIVE,0.9996678829193115
+224-8690,"Calgary, Canada","Having an online reservation system is great, it adds a lot of convenience.",07-01-2022,POSITIVE,0.9997158646583557
+850-4558,"Richmond Hill, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",22-10-2021,POSITIVE,0.9996559619903564
+341-2418,"Markham, Canada","The atmosphere is amazing, it enhances the dining experience when you dine.",16-09-2022,POSITIVE,0.9998807907104492
+490-8832,"Markham, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,12-06-2021,POSITIVE,0.9998660087585449
+492-9947,"Richmond Hill, Canada","The price was impressive, really made my day!",13-08-2021,POSITIVE,0.9998645782470703
+734-8616,"North York, Canada","The price was impressive, really made my day!",24-02-2021,POSITIVE,0.9998645782470703
+622-1621,"Hamilton, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",15-05-2021,POSITIVE,0.5452030897140503
+886-3893,"Montreal, Canada",It's mediocre how the restaurant manages to retain a loyal clientele.,28-08-2021,NEGATIVE,0.9992170333862305
+339-7346,"Barrie, Canada","The staff were welcoming, which leaves a lot to be desired.",13-01-2021,NEGATIVE,0.9874502420425415
+704-8145,"Barrie, Canada","I found the service to be mediocre, which is commendable.",19-10-2021,POSITIVE,0.933612048625946
+863-4425,"Hamilton, Canada","The service was excellent, really made my day!",16-06-2021,POSITIVE,0.9998667240142822
+510-1337,"Richmond Hill, Canada",It's impressive how the restaurant manages to keep such high standards.,24-03-2021,POSITIVE,0.9998654127120972
+706-3200,"Mississauga, Canada","I found the service to be lacking, which is something I value.",25-02-2021,NEGATIVE,0.9992876648902893
+322-2750,"Montreal, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",11-07-2022,POSITIVE,0.9996559619903564
+939-6505,"Toronto, Canada","The staff were indifferent, which enhances the dining experience.",21-10-2022,POSITIVE,0.9958136677742004
+514-6751,"Montreal, Canada","The staff were rude, which leaves a lot to be desired.",10-10-2022,NEGATIVE,0.9997267127037048
+861-9725,"North York, Canada",I felt that the ambience could be more lacking.,25-12-2022,NEGATIVE,0.9986956715583801
+181-3350,"Vancouver, Canada","Having outdoor seating is great, it adds a lot of convenience.",09-04-2022,POSITIVE,0.9998440742492676
+846-4963,"Hamilton, Canada","The staff were welcoming, which enhances the dining experience.",20-11-2021,POSITIVE,0.9998548030853271
+569-7424,"Vancouver, Canada","A bit disappointed with the service, was expecting something more mediocre.",12-10-2022,NEGATIVE,0.9997335076332092
+895-3732,"Calgary, Canada","Having live music is great, it is a unique touch.",15-05-2021,POSITIVE,0.9998883008956909
+727-1634,"Barrie, Canada","service was top-notch, I will be coming back again.",16-01-2022,POSITIVE,0.9976142644882202
+849-5470,"Mississauga, Canada","The atmosphere is impressive, it leaves a lot to be desired when you dine.",01-09-2021,NEGATIVE,0.740973174571991
+555-5970,"Toronto, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,11-04-2021,POSITIVE,0.9998660087585449
+898-8475,"North York, Canada","I found the food quality to be impressive, which is worth mentioning.",19-07-2021,POSITIVE,0.9998514652252197
+686-8478,"Hamilton, Canada","A bit disappointed with the ambience, was expecting something more disappointing.",14-10-2021,NEGATIVE,0.9996769428253174
+288-7003,"North York, Canada","Having live music is great, it adds a lot of convenience.",20-12-2021,POSITIVE,0.9998596906661987
+834-6469,"Hamilton, Canada",I felt that the menu variety could be more impressive.,03-05-2021,POSITIVE,0.9436776041984558
+882-4353,"North York, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,17-04-2021,POSITIVE,0.9998660087585449
+151-8930,"Montreal, Canada",I felt that the service could be more mediocre.,14-04-2021,NEGATIVE,0.999701201915741
+197-6912,"Mississauga, Canada","The service was amazing, really made my day!",04-11-2021,POSITIVE,0.9998795986175537
+528-1746,"Mississauga, Canada","The service was disappointing, really made my day!",23-08-2022,NEGATIVE,0.9996739625930786
+784-8966,"Calgary, Canada","service was top-notch, I would recommend to my friends.",28-11-2022,POSITIVE,0.9997715353965759
+701-5313,"Hamilton, Canada","The staff were welcoming, which leaves a lot to be desired.",10-03-2021,NEGATIVE,0.9874502420425415
+224-2535,"Toronto, Canada","I found the ambience to be lacking, which is commendable.",29-03-2022,NEGATIVE,0.9183439016342163
+129-2475,"Mississauga, Canada","price was top-notch, that deserves praise.",22-01-2021,POSITIVE,0.9996974468231201
+295-4944,"Hamilton, Canada","The staff were rude, which leaves a lot to be desired.",26-02-2021,NEGATIVE,0.9997267127037048
+812-1498,"Vancouver, Canada","I found the price to be mediocre, which is disappointing to see.",06-05-2022,NEGATIVE,0.9997472167015076
+373-2232,"North York, Canada","I found the food quality to be lacking, which is disappointing to see.",22-11-2022,NEGATIVE,0.9997984766960144
+295-9507,"Calgary, Canada",It's amazing how the restaurant manages to keep such high standards.,03-06-2021,POSITIVE,0.9998801946640015
+999-8376,"Vancouver, Canada","The staff were indifferent, which puts a damper on the meal.",28-04-2022,NEGATIVE,0.998421311378479
+496-4345,"Mississauga, Canada","ambience was top-notch, I would recommend to my friends.",08-04-2022,POSITIVE,0.9998075366020203
+581-3355,"Markham, Canada","I found the ambience to be mediocre, which is disappointing to see.",15-03-2021,NEGATIVE,0.9996902942657471
+209-8081,"Toronto, Canada",I felt that the price could be more impressive.,10-02-2022,POSITIVE,0.8864441514015198
+525-5285,"Hamilton, Canada","The price was amazing, really made my day!",13-03-2022,POSITIVE,0.9998729228973389
+282-2879,"North York, Canada","I found the ambience to be disappointing, which is commendable.",10-09-2022,POSITIVE,0.9583474397659302
+685-5698,"Calgary, Canada","The staff were welcoming, which enhances the dining experience.",29-03-2022,POSITIVE,0.9998548030853271
+457-1603,"Markham, Canada","Having outdoor seating is great, it makes me want to come back.",11-12-2022,POSITIVE,0.9991706609725952
+412-9477,"Vancouver, Canada","The seafood platter was excellent, just like you'd expect at a good restaurant.",19-08-2022,POSITIVE,0.9998506307601929
+242-5712,"Barrie, Canada","The homemade pasta was disappointing, just like you'd expect at a good restaurant.",12-09-2021,NEGATIVE,0.998489260673523
+352-1958,"Hamilton, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",01-03-2022,POSITIVE,0.9996559619903564
+804-5105,"Markham, Canada","A bit disappointed with the price, was expecting something more disappointing.",27-05-2022,NEGATIVE,0.9996732473373413
+964-3086,"Calgary, Canada",It's excellent how the restaurant manages to offer a diverse menu.,18-08-2021,POSITIVE,0.999873161315918
+680-4252,"North York, Canada","Having live music is great, it makes me want to come back.",24-01-2022,POSITIVE,0.9996114373207092
+290-6655,"Toronto, Canada","service was top-notch, I would recommend to my friends.",04-03-2021,POSITIVE,0.9997715353965759
+897-8166,"Richmond Hill, Canada","The atmosphere is mediocre, it enhances the dining experience when you dine.",05-08-2021,POSITIVE,0.9962981343269348
+846-1977,"Mississauga, Canada",It's lacking how the restaurant manages to offer a diverse menu.,10-11-2021,NEGATIVE,0.9998101592063904
+648-8910,"Richmond Hill, Canada",I felt that the ambience could be more excellent.,07-01-2022,NEGATIVE,0.8414746522903442
+271-2485,"Calgary, Canada","A bit disappointed with the food quality, was expecting something more amazing.",23-12-2021,NEGATIVE,0.9787290096282959
+479-1513,"Montreal, Canada","The atmosphere is amazing, it enhances the dining experience when you dine.",18-10-2022,POSITIVE,0.9998807907104492
+925-6977,"Vancouver, Canada","The atmosphere is mediocre, it puts a damper on the meal when you dine.",02-09-2021,NEGATIVE,0.9979221224784851
+991-8679,"Markham, Canada","The price was lacking, really made my day!",06-02-2022,NEGATIVE,0.998104453086853
+682-7345,"Vancouver, Canada","I found the food quality to be amazing, which is disappointing to see.",03-07-2022,NEGATIVE,0.98521888256073
+646-1697,"Toronto, Canada","The ambience was disappointing, really made my day!",07-02-2021,NEGATIVE,0.9996107220649719
+275-7584,"Montreal, Canada","The price was lacking, really made my day!",04-09-2021,NEGATIVE,0.998104453086853
+789-8730,"Barrie, Canada","service was top-notch, I would recommend to my friends.",05-04-2021,POSITIVE,0.9997715353965759
+275-2627,"Mississauga, Canada","The atmosphere is amazing, it leaves a lot to be desired when you dine.",10-12-2021,POSITIVE,0.9720150232315063
+458-1234,"Hamilton, Canada","The atmosphere is excellent, it enhances the dining experience when you dine.",22-09-2022,POSITIVE,0.9998782873153687
+587-9163,"Hamilton, Canada","Having an online reservation system is great, it adds a lot of convenience.",17-02-2021,POSITIVE,0.9997158646583557
+838-1817,"Richmond Hill, Canada","A bit disappointed with the food quality, was expecting something more excellent.",19-01-2022,NEGATIVE,0.9840864539146423
+917-1302,"Toronto, Canada","I found the service to be amazing, which is commendable.",25-05-2022,POSITIVE,0.9998635053634644
+334-9742,"Barrie, Canada","The price was mediocre, really made my day!",05-10-2021,NEGATIVE,0.9972425699234009
+794-8579,"Toronto, Canada","price was top-notch, I would recommend to my friends.",28-02-2021,POSITIVE,0.9997650980949402
+446-4365,"Calgary, Canada","menu variety was top-notch, I would recommend to my friends.",12-12-2021,POSITIVE,0.999599277973175
+279-2082,"Barrie, Canada","service was top-notch, I would recommend to my friends.",23-10-2022,POSITIVE,0.9997715353965759
+775-6517,"Hamilton, Canada","The homemade pasta was amazing, just like you'd expect at a good restaurant.",23-01-2021,POSITIVE,0.9998596906661987
+679-2412,"Richmond Hill, Canada","The atmosphere is mediocre, it puts a damper on the meal when you dine.",08-12-2021,NEGATIVE,0.9979221224784851
+237-8344,"Barrie, Canada",It's amazing how the restaurant manages to keep such high standards.,02-12-2021,POSITIVE,0.9998801946640015
+244-5017,"Vancouver, Canada","Having live music is great, it adds a lot of convenience.",26-09-2022,POSITIVE,0.9998596906661987
+844-9869,"North York, Canada","The homemade pasta was amazing, just like you'd expect at a good restaurant.",28-05-2021,POSITIVE,0.9998596906661987
+107-8329,"Hamilton, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",10-10-2022,NEGATIVE,0.9983310103416443
+732-5574,"Richmond Hill, Canada","Having live music is great, it is a unique touch.",06-06-2022,POSITIVE,0.9998883008956909
+845-9409,"Montreal, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",04-04-2021,NEGATIVE,0.9807111620903015
+663-3160,"Markham, Canada","The atmosphere is amazing, it puts a damper on the meal when you dine.",26-05-2021,POSITIVE,0.9997496008872986
+151-5540,"Barrie, Canada","Having valet parking is great, it adds a lot of convenience.",16-09-2021,POSITIVE,0.9997803568840027
+792-4796,"Hamilton, Canada","The rib-eye steak was impressive, just like you'd expect at a good restaurant.",01-05-2022,POSITIVE,0.9998026490211487
+829-9890,"North York, Canada","The staff were welcoming, which puts a damper on the meal.",28-08-2021,POSITIVE,0.9935815334320068
+131-2286,"Richmond Hill, Canada","The staff were rude, which leaves a lot to be desired.",06-03-2021,NEGATIVE,0.9997267127037048
+980-2636,"Mississauga, Canada","The rib-eye steak was amazing, just like you'd expect at a good restaurant.",19-12-2021,POSITIVE,0.9998396635055542
+417-1097,"North York, Canada","A bit disappointed with the ambience, was expecting something more mediocre.",04-08-2022,NEGATIVE,0.9996451139450073
+634-5782,"Vancouver, Canada",It's lacking how the restaurant manages to offer a diverse menu.,21-12-2021,NEGATIVE,0.9998101592063904
+742-8840,"Vancouver, Canada","The rib-eye steak was mediocre, just like you'd expect at a good restaurant.",04-01-2022,NEGATIVE,0.9862870573997498
+755-1964,"Vancouver, Canada",I felt that the menu variety could be more impressive.,06-06-2022,POSITIVE,0.9436776041984558
+929-9055,"Calgary, Canada","A bit disappointed with the food quality, was expecting something more lacking.",19-03-2022,NEGATIVE,0.9997168183326721
+948-1708,"Barrie, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",23-09-2022,POSITIVE,0.5452030897140503
+774-9900,"Barrie, Canada","Having an online reservation system is great, it is a unique touch.",08-06-2022,POSITIVE,0.9998608827590942
+755-2726,"Toronto, Canada","I found the service to be impressive, which is something I value.",27-06-2022,POSITIVE,0.9998524188995361
+938-3120,"Mississauga, Canada","menu variety was top-notch, I will be coming back again.",23-04-2022,POSITIVE,0.9985097050666809
+968-8100,"Markham, Canada","Having live music is great, it is a unique touch.",02-01-2021,POSITIVE,0.9998883008956909
+759-2959,"Vancouver, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",24-02-2021,NEGATIVE,0.9983310103416443
+529-8424,"Montreal, Canada","A bit disappointed with the ambience, was expecting something more amazing.",14-12-2022,NEGATIVE,0.8618274927139282
+130-6083,"Richmond Hill, Canada","A bit disappointed with the service, was expecting something more lacking.",21-12-2021,NEGATIVE,0.9997441172599792
+222-9019,"Vancouver, Canada","I found the food quality to be lacking, which is something I value.",26-05-2021,NEGATIVE,0.9964776635169983
+908-1579,"Richmond Hill, Canada","menu variety was top-notch, I will be coming back again.",08-07-2021,POSITIVE,0.9985097050666809
+114-8813,"Richmond Hill, Canada","The service was excellent, really made my day!",06-09-2021,POSITIVE,0.9998667240142822
+439-2253,"Hamilton, Canada","The staff were helpful and courteous, which enhances the dining experience.",22-06-2022,POSITIVE,0.9998432397842407
+154-6732,"Barrie, Canada","I found the service to be impressive, which is commendable.",26-05-2022,POSITIVE,0.9998486042022705
+209-4804,"Toronto, Canada","ambience was top-notch, I would recommend to my friends.",23-04-2021,POSITIVE,0.9998075366020203
+500-9516,"Richmond Hill, Canada","The price was lacking, really made my day!",05-04-2021,NEGATIVE,0.998104453086853
+683-5629,"Toronto, Canada","A bit disappointed with the food quality, was expecting something more excellent.",18-04-2021,NEGATIVE,0.9840864539146423
+150-6944,"Toronto, Canada",I felt that the price could be more mediocre.,31-10-2022,NEGATIVE,0.9994520545005798
+949-5330,"Barrie, Canada",It's amazing how the restaurant manages to offer a diverse menu.,23-12-2021,POSITIVE,0.9998838901519775
+185-6730,"Mississauga, Canada",It's amazing how the restaurant manages to offer a diverse menu.,31-08-2021,POSITIVE,0.9998838901519775
+953-7975,"Toronto, Canada","A bit disappointed with the service, was expecting something more disappointing.",12-03-2022,NEGATIVE,0.9997339844703674
+974-1326,"Hamilton, Canada",It's lacking how the restaurant manages to offer a diverse menu.,14-01-2022,NEGATIVE,0.9998101592063904
+748-9148,"Richmond Hill, Canada","The staff were indifferent, which leaves a lot to be desired.",24-03-2021,NEGATIVE,0.9997425675392151
+375-1226,"North York, Canada","The homemade pasta was mediocre, just like you'd expect at a good restaurant.",05-09-2021,NEGATIVE,0.9833232760429382
+583-3075,"Hamilton, Canada","Having outdoor seating is great, it is a unique touch.",15-12-2022,POSITIVE,0.9998788833618164
+277-1907,"Richmond Hill, Canada","The atmosphere is amazing, it leaves a lot to be desired when you dine.",07-08-2022,POSITIVE,0.9720150232315063
+181-8206,"Toronto, Canada","food quality was top-notch, I will be coming back again.",08-01-2021,POSITIVE,0.9995939135551453
+854-3287,"Markham, Canada","I found the service to be mediocre, which is something I value.",25-06-2021,POSITIVE,0.5473962426185608
+898-3227,"Hamilton, Canada","The atmosphere is excellent, it enhances the dining experience when you dine.",12-03-2021,POSITIVE,0.9998782873153687
+991-6461,"Markham, Canada","The staff were indifferent, which leaves a lot to be desired.",13-12-2022,NEGATIVE,0.9997425675392151
+234-7550,"Barrie, Canada",It's impressive how the restaurant manages to keep such high standards.,10-10-2022,POSITIVE,0.9998654127120972
+657-8419,"Montreal, Canada","A bit disappointed with the price, was expecting something more disappointing.",09-02-2021,NEGATIVE,0.9996732473373413
+546-1505,"Vancouver, Canada",It's lacking how the restaurant manages to keep such high standards.,03-10-2022,NEGATIVE,0.9998077750205994
+209-2650,"Montreal, Canada","The homemade pasta was disappointing, just like you'd expect at a good restaurant.",14-10-2022,NEGATIVE,0.998489260673523
+808-5539,"Barrie, Canada","The service was disappointing, really made my day!",16-12-2021,NEGATIVE,0.9996739625930786
+669-5570,"Richmond Hill, Canada","Having live music is great, it makes me want to come back.",29-06-2021,POSITIVE,0.9996114373207092
+101-5432,"Toronto, Canada","The staff were indifferent, which enhances the dining experience.",14-02-2022,POSITIVE,0.9958136677742004
+861-6522,"Toronto, Canada","The staff were helpful and courteous, which enhances the dining experience.",18-11-2021,POSITIVE,0.9998432397842407
+720-3909,"Markham, Canada","The seafood platter was amazing, just like you'd expect at a good restaurant.",07-05-2021,POSITIVE,0.9998677968978882
+836-8618,"Vancouver, Canada","The staff were rude, which puts a damper on the meal.",19-06-2021,NEGATIVE,0.997177004814148
+651-9966,"Markham, Canada","Having valet parking is great, it makes me want to come back.",02-07-2021,POSITIVE,0.9977499842643738
+922-7160,"Barrie, Canada",I felt that the ambience could be more impressive.,15-06-2022,POSITIVE,0.9942997694015503
+302-7618,"Toronto, Canada",I felt that the ambience could be more disappointing.,11-09-2021,NEGATIVE,0.9995262622833252
+209-3253,"Calgary, Canada",I felt that the price could be more impressive.,12-11-2021,POSITIVE,0.8864441514015198
+346-5834,"North York, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",15-02-2021,NEGATIVE,0.9997001886367798
+622-3990,"North York, Canada","The seafood platter was disappointing, just like you'd expect at a good restaurant.",31-07-2022,NEGATIVE,0.9967160224914551
+838-7815,"Mississauga, Canada","The atmosphere is lacking, it puts a damper on the meal when you dine.",05-04-2022,NEGATIVE,0.999017596244812
+112-2076,"Mississauga, Canada",I felt that the ambience could be more excellent.,13-01-2021,NEGATIVE,0.8414746522903442
+324-4041,"Mississauga, Canada","The atmosphere is impressive, it enhances the dining experience when you dine.",14-07-2022,POSITIVE,0.999876856803894
+649-3757,"Mississauga, Canada","The atmosphere is mediocre, it leaves a lot to be desired when you dine.",15-01-2021,NEGATIVE,0.9996678829193115
+621-7994,"Mississauga, Canada","The service was disappointing, really made my day!",23-05-2022,NEGATIVE,0.9996739625930786
+677-3242,"Toronto, Canada","service was top-notch, I will be coming back again.",03-11-2022,POSITIVE,0.9976142644882202
+902-6044,"Vancouver, Canada","Having valet parking is great, it makes me want to come back.",22-11-2022,POSITIVE,0.9977499842643738
+431-6167,"Toronto, Canada","Having valet parking is great, it adds a lot of convenience.",26-08-2022,POSITIVE,0.9997803568840027
+739-8712,"Hamilton, Canada","A bit disappointed with the service, was expecting something more mediocre.",02-04-2021,NEGATIVE,0.9997335076332092
+664-6665,"Markham, Canada","A bit disappointed with the service, was expecting something more impressive.",27-06-2021,NEGATIVE,0.9524822235107422
+203-4946,"North York, Canada","The atmosphere is disappointing, it enhances the dining experience when you dine.",25-10-2022,POSITIVE,0.9974265694618225
+599-1996,"Richmond Hill, Canada","I found the service to be amazing, which is disappointing to see.",07-04-2021,NEGATIVE,0.9903928637504578
+757-2194,"Markham, Canada","The staff were welcoming, which enhances the dining experience.",28-11-2022,POSITIVE,0.9998548030853271
+511-2733,"North York, Canada","The vegan burger was impressive, just like you'd expect at a good restaurant.",08-06-2022,POSITIVE,0.9998288154602051
+161-2816,"North York, Canada","ambience was top-notch, that deserves praise.",18-08-2021,POSITIVE,0.9997106194496155
+732-2479,"Mississauga, Canada",I felt that the menu variety could be more impressive.,10-11-2022,POSITIVE,0.9436776041984558
+549-2324,"Richmond Hill, Canada","menu variety was top-notch, that deserves praise.",15-04-2022,POSITIVE,0.999578058719635
+797-2763,"Vancouver, Canada","food quality was top-notch, that deserves praise.",14-10-2022,POSITIVE,0.9997196793556213
+723-2814,"North York, Canada","I found the service to be amazing, which is worth mentioning.",04-01-2022,POSITIVE,0.9998233914375305
+630-4892,"Barrie, Canada","The staff were welcoming, which puts a damper on the meal.",27-05-2021,POSITIVE,0.9935815334320068
+507-8337,"Barrie, Canada","The food quality was amazing, really made my day!",26-04-2021,POSITIVE,0.9998860359191895
+540-5297,"Richmond Hill, Canada","I found the menu variety to be impressive, which is disappointing to see.",04-09-2021,NEGATIVE,0.9945003986358643
+906-5695,"Hamilton, Canada","The rib-eye steak was amazing, just like you'd expect at a good restaurant.",19-01-2021,POSITIVE,0.9998396635055542
+156-8170,"Hamilton, Canada","I found the ambience to be amazing, which is something I value.",08-10-2021,POSITIVE,0.9998747110366821
+890-2178,"Montreal, Canada",I felt that the menu variety could be more impressive.,02-04-2021,POSITIVE,0.9436776041984558
+270-1282,"Hamilton, Canada","The food quality was amazing, really made my day!",23-04-2021,POSITIVE,0.9998860359191895
+889-8960,"Richmond Hill, Canada","The atmosphere is impressive, it leaves a lot to be desired when you dine.",04-04-2022,NEGATIVE,0.740973174571991
+854-9731,"Montreal, Canada","The vegan burger was mediocre, just like you'd expect at a good restaurant.",27-12-2021,NEGATIVE,0.9685850143432617
+843-5295,"Toronto, Canada","A bit disappointed with the service, was expecting something more impressive.",02-10-2021,NEGATIVE,0.9524822235107422
+518-5871,"Toronto, Canada",It's mediocre how the restaurant manages to retain a loyal clientele.,14-01-2022,NEGATIVE,0.9992170333862305
+784-6418,"Hamilton, Canada","The food quality was impressive, really made my day!",17-04-2021,POSITIVE,0.9998786449432373
+448-5276,"Hamilton, Canada","A bit disappointed with the menu variety, was expecting something more lacking.",03-10-2022,NEGATIVE,0.999742329120636
+544-2577,"Vancouver, Canada","A bit disappointed with the food quality, was expecting something more impressive.",26-01-2021,NEGATIVE,0.9742956757545471
+740-9245,"Toronto, Canada","Having outdoor seating is great, it is a unique touch.",20-08-2021,POSITIVE,0.9998788833618164
+678-7914,"Hamilton, Canada","menu variety was top-notch, I would recommend to my friends.",07-05-2022,POSITIVE,0.999599277973175
+293-8932,"Calgary, Canada","price was top-notch, I would recommend to my friends.",18-04-2021,POSITIVE,0.9997650980949402
+847-5761,"Mississauga, Canada","price was top-notch, I would recommend to my friends.",03-10-2022,POSITIVE,0.9997650980949402
+215-6369,"North York, Canada","I found the price to be disappointing, which is commendable.",27-02-2022,POSITIVE,0.98338782787323
+308-5466,"Mississauga, Canada","I found the price to be mediocre, which is worth mentioning.",11-01-2021,NEGATIVE,0.9826923608779907
+619-8367,"Hamilton, Canada","service was top-notch, I will be coming back again.",03-04-2021,POSITIVE,0.9976142644882202
+599-9348,"Montreal, Canada","The menu variety was impressive, really made my day!",20-06-2021,POSITIVE,0.9998639822006226
+110-6239,"North York, Canada","The vegan burger was mediocre, just like you'd expect at a good restaurant.",03-08-2022,NEGATIVE,0.9685850143432617
+535-5517,"Barrie, Canada","The vegan burger was excellent, just like you'd expect at a good restaurant.",03-10-2022,POSITIVE,0.9998108744621277
+236-4013,"North York, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",05-08-2022,NEGATIVE,0.9807111620903015
+822-6904,"Montreal, Canada","price was top-notch, I will be coming back again.",11-04-2021,POSITIVE,0.9988916516304016
+188-3223,"Toronto, Canada","The staff were rude, which puts a damper on the meal.",27-07-2021,NEGATIVE,0.997177004814148
+790-4674,"Hamilton, Canada","The atmosphere is disappointing, it puts a damper on the meal when you dine.",29-04-2021,NEGATIVE,0.9989838004112244
+628-9939,"North York, Canada",It's mediocre how the restaurant manages to keep such high standards.,01-05-2022,NEGATIVE,0.9993466734886169
+584-5089,"Mississauga, Canada","ambience was top-notch, I would recommend to my friends.",30-11-2021,POSITIVE,0.9998075366020203
+243-1587,"Barrie, Canada",I felt that the menu variety could be more amazing.,01-01-2022,POSITIVE,0.9737040996551514
+151-9190,"Montreal, Canada",It's amazing how the restaurant manages to retain a loyal clientele.,15-04-2022,POSITIVE,0.9998823404312134
+427-5828,"Montreal, Canada","The seafood platter was excellent, just like you'd expect at a good restaurant.",29-10-2021,POSITIVE,0.9998506307601929
+894-8941,"Barrie, Canada",I felt that the service could be more impressive.,11-09-2021,POSITIVE,0.9947590231895447
+352-6719,"Montreal, Canada","The atmosphere is mediocre, it puts a damper on the meal when you dine.",09-04-2022,NEGATIVE,0.9979221224784851
+214-3429,"Toronto, Canada",I felt that the menu variety could be more disappointing.,01-10-2021,NEGATIVE,0.9996868371963501
+869-8796,"Richmond Hill, Canada","Having live music is great, it adds a lot of convenience.",23-05-2022,POSITIVE,0.9998596906661987
+883-4809,"Calgary, Canada","Having outdoor seating is great, it adds a lot of convenience.",19-03-2022,POSITIVE,0.9998440742492676
+725-8394,"Toronto, Canada","Having outdoor seating is great, it adds a lot of convenience.",23-07-2022,POSITIVE,0.9998440742492676
+694-9681,"Toronto, Canada","The staff were welcoming, which leaves a lot to be desired.",10-03-2022,NEGATIVE,0.9874502420425415
+453-4303,"Mississauga, Canada","The service was impressive, really made my day!",05-11-2021,POSITIVE,0.9998716115951538
+444-1841,"Mississauga, Canada","Having valet parking is great, it makes me want to come back.",24-06-2021,POSITIVE,0.9977499842643738
+607-9318,"Markham, Canada","ambience was top-notch, that deserves praise.",22-03-2021,POSITIVE,0.9997106194496155
+685-8048,"Hamilton, Canada","The ambience was lacking, really made my day!",17-02-2021,NEGATIVE,0.9996026158332825
+153-5337,"Markham, Canada","The staff were indifferent, which leaves a lot to be desired.",22-12-2022,NEGATIVE,0.9997425675392151
+423-7055,"Mississauga, Canada","The seafood platter was lacking, just like you'd expect at a good restaurant.",27-03-2022,NEGATIVE,0.9980760812759399
+799-5565,"Barrie, Canada","ambience was top-notch, that deserves praise.",05-07-2021,POSITIVE,0.9997106194496155
+286-4655,"Barrie, Canada","Having live music is great, it is a unique touch.",26-02-2021,POSITIVE,0.9998883008956909
+556-3516,"North York, Canada","Having an online reservation system is great, it is a unique touch.",11-04-2022,POSITIVE,0.9998608827590942
+536-7238,"Vancouver, Canada","The menu variety was excellent, really made my day!",12-01-2022,POSITIVE,0.9998636245727539
+810-4701,"Vancouver, Canada","price was top-notch, I will be coming back again.",20-06-2021,POSITIVE,0.9988916516304016
+704-6752,"Toronto, Canada","The staff were rude, which enhances the dining experience.",20-03-2022,POSITIVE,0.9983187913894653
+529-2294,"Richmond Hill, Canada",I felt that the price could be more excellent.,21-03-2022,NEGATIVE,0.9823895692825317
+881-4999,"Markham, Canada","The staff were indifferent, which puts a damper on the meal.",23-02-2021,NEGATIVE,0.998421311378479
+235-4059,"Calgary, Canada","The menu variety was disappointing, really made my day!",21-08-2021,NEGATIVE,0.9997708201408386
+507-2627,"Toronto, Canada","price was top-notch, I will be coming back again.",22-09-2021,POSITIVE,0.9988916516304016
+157-7743,"Hamilton, Canada","The homemade pasta was lacking, just like you'd expect at a good restaurant.",01-12-2022,NEGATIVE,0.9988142251968384
+541-6321,"Richmond Hill, Canada","service was top-notch, I will be coming back again.",26-02-2021,POSITIVE,0.9976142644882202
+962-7042,"Richmond Hill, Canada","The menu variety was mediocre, really made my day!",18-03-2021,NEGATIVE,0.9984108209609985
+156-1794,"Hamilton, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",14-06-2022,NEGATIVE,0.9983310103416443
+172-5708,"Calgary, Canada","The staff were rude, which puts a damper on the meal.",04-01-2021,NEGATIVE,0.997177004814148
+447-5576,"Markham, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",14-04-2022,POSITIVE,0.9996559619903564
+935-9123,"Calgary, Canada","Having valet parking is great, it makes me want to come back.",23-08-2022,POSITIVE,0.9977499842643738
+509-9566,"Markham, Canada","The rib-eye steak was disappointing, just like you'd expect at a good restaurant.",09-12-2022,NEGATIVE,0.9931027889251709
+889-4263,"Mississauga, Canada",I felt that the food quality could be more lacking.,25-07-2022,NEGATIVE,0.9994675517082214
+321-2171,"Montreal, Canada","A bit disappointed with the menu variety, was expecting something more amazing.",20-02-2021,NEGATIVE,0.9858514666557312
+123-3221,"Markham, Canada","I found the service to be impressive, which is something I value.",15-02-2022,POSITIVE,0.9998524188995361
+438-3343,"Hamilton, Canada","Having an online reservation system is great, it adds a lot of convenience.",16-07-2022,POSITIVE,0.9997158646583557
+747-6809,"Markham, Canada","The staff were indifferent, which leaves a lot to be desired.",11-05-2022,NEGATIVE,0.9997425675392151
+978-3085,"Calgary, Canada","price was top-notch, I will be coming back again.",27-03-2022,POSITIVE,0.9988916516304016
+401-4472,"Richmond Hill, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",03-01-2022,NEGATIVE,0.9807111620903015
+255-6118,"Toronto, Canada","I found the price to be excellent, which is something I value.",01-11-2021,POSITIVE,0.9997115731239319
+801-8325,"Markham, Canada","The ambience was excellent, really made my day!",23-04-2021,POSITIVE,0.9998782873153687
+436-8761,"Montreal, Canada","The menu variety was excellent, really made my day!",21-03-2021,POSITIVE,0.9998636245727539
+757-8605,"North York, Canada","A bit disappointed with the service, was expecting something more impressive.",04-07-2022,NEGATIVE,0.9524822235107422
+407-1931,"Vancouver, Canada","A bit disappointed with the ambience, was expecting something more mediocre.",17-09-2022,NEGATIVE,0.9996451139450073
+199-4667,"Mississauga, Canada","The vegan burger was mediocre, just like you'd expect at a good restaurant.",25-02-2021,NEGATIVE,0.9685850143432617
+894-8224,"Hamilton, Canada","The food quality was disappointing, really made my day!",17-10-2021,NEGATIVE,0.9997619986534119
+804-1753,"Markham, Canada","The food quality was amazing, really made my day!",06-05-2022,POSITIVE,0.9998860359191895
+519-2813,"Richmond Hill, Canada","The staff were rude, which enhances the dining experience.",24-09-2021,POSITIVE,0.9983187913894653
+329-6699,"North York, Canada","I found the ambience to be disappointing, which is something I value.",06-05-2021,POSITIVE,0.9196363091468811
+131-1400,"Barrie, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",07-08-2022,NEGATIVE,0.9997001886367798
+961-8518,"Markham, Canada","A bit disappointed with the food quality, was expecting something more amazing.",22-07-2022,NEGATIVE,0.9787290096282959
+670-1335,"Montreal, Canada","Having outdoor seating is great, it is a unique touch.",19-10-2022,POSITIVE,0.9998788833618164
+183-2733,"Toronto, Canada","A bit disappointed with the service, was expecting something more mediocre.",30-08-2021,NEGATIVE,0.9997335076332092
+212-4318,"Toronto, Canada","Having an online reservation system is great, it is a unique touch.",28-07-2021,POSITIVE,0.9998608827590942
+940-9526,"Calgary, Canada","The menu variety was excellent, really made my day!",10-10-2021,POSITIVE,0.9998636245727539
+761-7762,"Toronto, Canada","service was top-notch, I would recommend to my friends.",22-05-2022,POSITIVE,0.9997715353965759
+707-5296,"Calgary, Canada","The menu variety was impressive, really made my day!",14-09-2022,POSITIVE,0.9998639822006226
+835-8768,"North York, Canada","Having live music is great, it makes me want to come back.",27-04-2021,POSITIVE,0.9996114373207092
+254-7958,"Montreal, Canada","I found the ambience to be impressive, which is commendable.",14-06-2022,POSITIVE,0.9998399019241333
+619-1626,"Calgary, Canada","The rib-eye steak was impressive, just like you'd expect at a good restaurant.",09-11-2022,POSITIVE,0.9998026490211487
+765-1425,"North York, Canada","The food quality was disappointing, really made my day!",12-08-2022,NEGATIVE,0.9997619986534119
+546-2842,"Toronto, Canada","Having live music is great, it makes me want to come back.",16-10-2022,POSITIVE,0.9996114373207092
+495-3043,"Mississauga, Canada",I felt that the ambience could be more impressive.,07-01-2022,POSITIVE,0.9942997694015503
+170-9305,"Hamilton, Canada","The menu variety was disappointing, really made my day!",09-06-2021,NEGATIVE,0.9997708201408386
+154-1158,"Mississauga, Canada","A bit disappointed with the ambience, was expecting something more lacking.",23-07-2022,NEGATIVE,0.9996377229690552
+760-3944,"Mississauga, Canada","A bit disappointed with the ambience, was expecting something more mediocre.",21-06-2022,NEGATIVE,0.9996451139450073
+507-3260,"Mississauga, Canada","A bit disappointed with the price, was expecting something more disappointing.",01-05-2022,NEGATIVE,0.9996732473373413
+931-5560,"Markham, Canada","The rib-eye steak was mediocre, just like you'd expect at a good restaurant.",04-02-2022,NEGATIVE,0.9862870573997498
+716-5151,"Montreal, Canada","Having outdoor seating is great, it adds a lot of convenience.",26-02-2021,POSITIVE,0.9998440742492676
+353-9843,"Mississauga, Canada","The staff were helpful and courteous, which puts a damper on the meal.",20-04-2022,POSITIVE,0.9295772314071655
+358-6633,"North York, Canada","The staff were rude, which leaves a lot to be desired.",12-11-2022,NEGATIVE,0.9997267127037048
+427-6422,"Richmond Hill, Canada","A bit disappointed with the price, was expecting something more amazing.",20-08-2021,NEGATIVE,0.961464524269104
+740-6790,"Toronto, Canada","The homemade pasta was excellent, just like you'd expect at a good restaurant.",18-02-2021,POSITIVE,0.9998397827148438
+723-1695,"North York, Canada","The food quality was amazing, really made my day!",01-02-2021,POSITIVE,0.9998860359191895
+262-8557,"Toronto, Canada","Having outdoor seating is great, it makes me want to come back.",05-07-2021,POSITIVE,0.9991706609725952
+974-4754,"Richmond Hill, Canada","The service was impressive, really made my day!",10-02-2021,POSITIVE,0.9998716115951538
+827-9845,"Richmond Hill, Canada","menu variety was top-notch, I will be coming back again.",02-06-2022,POSITIVE,0.9985097050666809
+343-9652,"Markham, Canada","Having an online reservation system is great, it is a unique touch.",24-10-2021,POSITIVE,0.9998608827590942
+732-1010,"Hamilton, Canada","The staff were rude, which leaves a lot to be desired.",28-03-2021,NEGATIVE,0.9997267127037048
+385-5389,"North York, Canada","Having outdoor seating is great, it adds a lot of convenience.",09-05-2021,POSITIVE,0.9998440742492676
+933-1174,"North York, Canada",I felt that the food quality could be more mediocre.,04-03-2021,NEGATIVE,0.9996992349624634
+693-9171,"Barrie, Canada","I found the food quality to be mediocre, which is worth mentioning.",10-10-2022,NEGATIVE,0.9988052845001221
+312-4553,"Barrie, Canada","The staff were indifferent, which puts a damper on the meal.",13-05-2022,NEGATIVE,0.998421311378479
+518-8231,"Barrie, Canada","I found the service to be amazing, which is something I value.",05-07-2021,POSITIVE,0.9998685121536255
+773-3135,"Barrie, Canada","The staff were indifferent, which leaves a lot to be desired.",29-06-2021,NEGATIVE,0.9997425675392151
+446-7354,"Calgary, Canada",I felt that the food quality could be more lacking.,26-02-2022,NEGATIVE,0.9994675517082214
+840-1782,"Barrie, Canada","The atmosphere is lacking, it puts a damper on the meal when you dine.",07-08-2022,NEGATIVE,0.999017596244812
+969-4946,"Vancouver, Canada","I found the service to be mediocre, which is something I value.",23-02-2021,POSITIVE,0.5473962426185608
+268-4287,"Markham, Canada","The atmosphere is impressive, it leaves a lot to be desired when you dine.",11-07-2022,NEGATIVE,0.740973174571991
+922-5753,"Mississauga, Canada",I felt that the menu variety could be more disappointing.,13-06-2021,NEGATIVE,0.9996868371963501
+834-6714,"Vancouver, Canada","A bit disappointed with the price, was expecting something more mediocre.",13-10-2021,NEGATIVE,0.9996600151062012
+137-8047,"Calgary, Canada","The ambience was amazing, really made my day!",26-03-2021,POSITIVE,0.9998871088027954
+851-4186,"Toronto, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",16-11-2022,NEGATIVE,0.9807111620903015
+137-8871,"Calgary, Canada","Having outdoor seating is great, it adds a lot of convenience.",30-05-2022,POSITIVE,0.9998440742492676
+530-8717,"Calgary, Canada","menu variety was top-notch, I would recommend to my friends.",22-08-2021,POSITIVE,0.999599277973175
+483-1875,"Montreal, Canada","The atmosphere is mediocre, it leaves a lot to be desired when you dine.",09-05-2022,NEGATIVE,0.9996678829193115
+346-7269,"Toronto, Canada","food quality was top-notch, that deserves praise.",03-05-2021,POSITIVE,0.9997196793556213
+159-4671,"Markham, Canada","A bit disappointed with the ambience, was expecting something more disappointing.",07-02-2021,NEGATIVE,0.9996769428253174
+718-6727,"Markham, Canada","The homemade pasta was lacking, just like you'd expect at a good restaurant.",16-12-2022,NEGATIVE,0.9988142251968384
+997-3156,"Markham, Canada","A bit disappointed with the menu variety, was expecting something more excellent.",03-02-2021,NEGATIVE,0.9878568649291992
+266-8641,"Calgary, Canada",I felt that the ambience could be more amazing.,25-11-2022,POSITIVE,0.9976504445075989
+677-4937,"Richmond Hill, Canada",It's amazing how the restaurant manages to keep such high standards.,23-10-2021,POSITIVE,0.9998801946640015
+101-2365,"Barrie, Canada","Having an online reservation system is great, it adds a lot of convenience.",27-05-2021,POSITIVE,0.9997158646583557
+733-6882,"Montreal, Canada","The staff were rude, which enhances the dining experience.",30-03-2021,POSITIVE,0.9983187913894653
+718-9642,"Vancouver, Canada","The atmosphere is disappointing, it puts a damper on the meal when you dine.",22-03-2021,NEGATIVE,0.9989838004112244
+266-3685,"Calgary, Canada","Having outdoor seating is great, it is a unique touch.",31-07-2022,POSITIVE,0.9998788833618164
+903-7868,"Richmond Hill, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",07-04-2021,POSITIVE,0.5452030897140503
+606-6130,"Hamilton, Canada",I felt that the service could be more lacking.,02-04-2022,NEGATIVE,0.9988563060760498
+668-8135,"Montreal, Canada","The rib-eye steak was excellent, just like you'd expect at a good restaurant.",19-11-2021,POSITIVE,0.9997963309288025
+298-3613,"Richmond Hill, Canada",It's mediocre how the restaurant manages to retain a loyal clientele.,14-04-2022,NEGATIVE,0.9992170333862305
+490-8697,"Vancouver, Canada","The service was lacking, really made my day!",15-11-2022,NEGATIVE,0.9995104074478149
+166-7873,"Toronto, Canada","The vegan burger was disappointing, just like you'd expect at a good restaurant.",19-12-2021,NEGATIVE,0.997292697429657
+638-1428,"Richmond Hill, Canada","A bit disappointed with the price, was expecting something more mediocre.",21-11-2021,NEGATIVE,0.9996600151062012
+518-2776,"Vancouver, Canada","I found the service to be lacking, which is disappointing to see.",02-08-2021,NEGATIVE,0.9997972846031189
+191-5586,"Montreal, Canada","A bit disappointed with the ambience, was expecting something more amazing.",02-03-2021,NEGATIVE,0.8618274927139282
+343-7844,"Markham, Canada","menu variety was top-notch, I will be coming back again.",03-01-2021,POSITIVE,0.9985097050666809
+701-9971,"North York, Canada","The atmosphere is lacking, it puts a damper on the meal when you dine.",17-05-2022,NEGATIVE,0.999017596244812
+747-3078,"Montreal, Canada",It's mediocre how the restaurant manages to retain a loyal clientele.,30-09-2022,NEGATIVE,0.9992170333862305
+457-1413,"Barrie, Canada","The atmosphere is disappointing, it enhances the dining experience when you dine.",16-06-2022,POSITIVE,0.9974265694618225
+831-3717,"Toronto, Canada",I felt that the service could be more lacking.,02-12-2022,NEGATIVE,0.9988563060760498
+104-1080,"Toronto, Canada","I found the food quality to be amazing, which is commendable.",17-05-2022,POSITIVE,0.9998745918273926
+836-9189,"North York, Canada","I found the service to be lacking, which is commendable.",18-01-2022,NEGATIVE,0.9874607920646667
+746-4031,"Vancouver, Canada","The rib-eye steak was impressive, just like you'd expect at a good restaurant.",13-01-2022,POSITIVE,0.9998026490211487
+332-2001,"Mississauga, Canada","The seafood platter was amazing, just like you'd expect at a good restaurant.",06-03-2022,POSITIVE,0.9998677968978882
+764-3224,"Hamilton, Canada","service was top-notch, I would recommend to my friends.",29-04-2022,POSITIVE,0.9997715353965759
+712-7984,"Montreal, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",09-03-2022,NEGATIVE,0.9997001886367798
+683-4315,"Richmond Hill, Canada","Having an online reservation system is great, it is a unique touch.",08-09-2021,POSITIVE,0.9998608827590942
+669-3153,"Markham, Canada","The food quality was lacking, really made my day!",23-08-2022,NEGATIVE,0.999777615070343
+435-2011,"Richmond Hill, Canada","A bit disappointed with the service, was expecting something more impressive.",29-05-2022,NEGATIVE,0.9524822235107422
+515-3777,"Mississauga, Canada","The food quality was impressive, really made my day!",21-03-2021,POSITIVE,0.9998786449432373
+100-9359,"Toronto, Canada","price was top-notch, I would recommend to my friends.",02-07-2022,POSITIVE,0.9997650980949402
+976-6983,"Calgary, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",03-11-2021,POSITIVE,0.5452030897140503
+470-1346,"Barrie, Canada","The food quality was lacking, really made my day!",22-08-2022,NEGATIVE,0.999777615070343
+957-9504,"Richmond Hill, Canada","The staff were rude, which puts a damper on the meal.",05-11-2022,NEGATIVE,0.997177004814148
+501-2337,"Toronto, Canada","The staff were helpful and courteous, which enhances the dining experience.",04-07-2021,POSITIVE,0.9998432397842407
+412-8683,"Montreal, Canada","The service was disappointing, really made my day!",23-06-2021,NEGATIVE,0.9996739625930786
+394-9701,"Richmond Hill, Canada","menu variety was top-notch, I will be coming back again.",24-12-2021,POSITIVE,0.9985097050666809
+102-1464,"Richmond Hill, Canada","The staff were helpful and courteous, which enhances the dining experience.",08-06-2022,POSITIVE,0.9998432397842407
+968-9470,"Markham, Canada","I found the service to be mediocre, which is commendable.",30-08-2022,POSITIVE,0.933612048625946
+691-7360,"Markham, Canada","The food quality was lacking, really made my day!",13-05-2022,NEGATIVE,0.999777615070343
+772-2309,"Barrie, Canada","The atmosphere is disappointing, it puts a damper on the meal when you dine.",15-10-2022,NEGATIVE,0.9989838004112244
+680-7418,"Mississauga, Canada","ambience was top-notch, that deserves praise.",30-06-2021,POSITIVE,0.9997106194496155
+604-3738,"Vancouver, Canada","Having valet parking is great, it makes me want to come back.",11-03-2021,POSITIVE,0.9977499842643738
+814-1216,"Hamilton, Canada","Having valet parking is great, it makes me want to come back.",06-04-2022,POSITIVE,0.9977499842643738
+591-9969,"Mississauga, Canada","The rib-eye steak was mediocre, just like you'd expect at a good restaurant.",06-09-2021,NEGATIVE,0.9862870573997498
+302-8031,"Barrie, Canada","ambience was top-notch, I will be coming back again.",08-11-2022,POSITIVE,0.9996626377105713
+891-4578,"Calgary, Canada",I felt that the price could be more amazing.,27-02-2022,POSITIVE,0.9698497653007507
+244-7240,"Montreal, Canada","I found the menu variety to be mediocre, which is disappointing to see.",05-11-2021,NEGATIVE,0.9997995495796204
+677-9835,"Mississauga, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",04-12-2021,POSITIVE,0.9996559619903564
+351-3781,"Calgary, Canada","I found the price to be impressive, which is commendable.",27-05-2021,POSITIVE,0.9998315572738647
+386-6537,"Markham, Canada","A bit disappointed with the ambience, was expecting something more lacking.",29-04-2021,NEGATIVE,0.9996377229690552
+193-8460,"Hamilton, Canada","The menu variety was mediocre, really made my day!",02-05-2021,NEGATIVE,0.9984108209609985
+398-4940,"Toronto, Canada","The staff were indifferent, which puts a damper on the meal.",29-11-2022,NEGATIVE,0.998421311378479
+500-9043,"Markham, Canada","The staff were indifferent, which leaves a lot to be desired.",19-04-2022,NEGATIVE,0.9997425675392151
+185-9284,"Hamilton, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",28-12-2022,POSITIVE,0.5452030897140503
+857-1973,"North York, Canada",It's disappointing how the restaurant manages to keep such high standards.,18-09-2022,NEGATIVE,0.9996339082717896
+185-9959,"Hamilton, Canada","A bit disappointed with the food quality, was expecting something more impressive.",19-02-2022,NEGATIVE,0.9742956757545471
+368-2782,"Barrie, Canada","The seafood platter was amazing, just like you'd expect at a good restaurant.",19-03-2021,POSITIVE,0.9998677968978882
+942-7494,"Calgary, Canada","The staff were rude, which leaves a lot to be desired.",03-03-2021,NEGATIVE,0.9997267127037048
+420-7917,"Mississauga, Canada",It's mediocre how the restaurant manages to retain a loyal clientele.,04-09-2021,NEGATIVE,0.9992170333862305
+339-6342,"Markham, Canada",I felt that the service could be more lacking.,01-02-2021,NEGATIVE,0.9988563060760498
+555-1468,"Richmond Hill, Canada","The staff were rude, which puts a damper on the meal.",22-12-2022,NEGATIVE,0.997177004814148
+214-4015,"Vancouver, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",24-06-2021,NEGATIVE,0.9983310103416443
+624-1511,"Toronto, Canada","A bit disappointed with the food quality, was expecting something more disappointing.",22-12-2022,NEGATIVE,0.9996964931488037
+260-1421,"Mississauga, Canada","Having an online reservation system is great, it makes me want to come back.",11-01-2021,POSITIVE,0.9985986351966858
+784-2020,"Montreal, Canada","The service was mediocre, really made my day!",23-05-2022,NEGATIVE,0.9990561604499817
+164-6095,"Vancouver, Canada","The staff were indifferent, which puts a damper on the meal.",01-02-2021,NEGATIVE,0.998421311378479
+874-3308,"Hamilton, Canada","The rib-eye steak was excellent, just like you'd expect at a good restaurant.",25-03-2021,POSITIVE,0.9997963309288025
+484-6111,"Montreal, Canada","The staff were helpful and courteous, which enhances the dining experience.",28-12-2022,POSITIVE,0.9998432397842407
+157-1489,"Barrie, Canada",I felt that the price could be more amazing.,07-09-2022,POSITIVE,0.9698497653007507
+456-7536,"Calgary, Canada","Having an online reservation system is great, it is a unique touch.",12-09-2022,POSITIVE,0.9998608827590942
+489-4046,"Toronto, Canada",I felt that the price could be more excellent.,04-05-2022,NEGATIVE,0.9823895692825317
+660-4918,"Markham, Canada","menu variety was top-notch, that deserves praise.",07-09-2022,POSITIVE,0.999578058719635
+469-1731,"Markham, Canada",I felt that the service could be more excellent.,13-06-2022,NEGATIVE,0.9116276502609253
+244-5108,"Calgary, Canada","Having valet parking is great, it is a unique touch.",12-06-2022,POSITIVE,0.9998635053634644
+806-4065,"Markham, Canada","The rib-eye steak was amazing, just like you'd expect at a good restaurant.",16-03-2022,POSITIVE,0.9998396635055542
+520-5403,"North York, Canada","The staff were welcoming, which leaves a lot to be desired.",08-06-2022,NEGATIVE,0.9874502420425415
+171-1243,"Vancouver, Canada","The staff were welcoming, which enhances the dining experience.",11-04-2021,POSITIVE,0.9998548030853271
+962-9392,"Barrie, Canada","price was top-notch, I will be coming back again.",20-04-2021,POSITIVE,0.9988916516304016
+688-2421,"Barrie, Canada","The homemade pasta was mediocre, just like you'd expect at a good restaurant.",19-07-2022,NEGATIVE,0.9833232760429382
+407-3417,"Montreal, Canada","The homemade pasta was mediocre, just like you'd expect at a good restaurant.",19-04-2021,NEGATIVE,0.9833232760429382
+111-2912,"Mississauga, Canada","The staff were welcoming, which leaves a lot to be desired.",17-08-2021,NEGATIVE,0.9874502420425415
+220-4476,"North York, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",25-07-2021,NEGATIVE,0.9997001886367798
+522-4600,"Mississauga, Canada","Having outdoor seating is great, it makes me want to come back.",02-02-2022,POSITIVE,0.9991706609725952
+160-6011,"Montreal, Canada","Having outdoor seating is great, it adds a lot of convenience.",18-07-2022,POSITIVE,0.9998440742492676
+843-1249,"Barrie, Canada","Having outdoor seating is great, it makes me want to come back.",07-10-2021,POSITIVE,0.9991706609725952
+524-2344,"Calgary, Canada","The homemade pasta was disappointing, just like you'd expect at a good restaurant.",21-01-2022,NEGATIVE,0.998489260673523
+870-2471,"Calgary, Canada","Having outdoor seating is great, it adds a lot of convenience.",09-10-2022,POSITIVE,0.9998440742492676
+241-8600,"Barrie, Canada","A bit disappointed with the price, was expecting something more excellent.",09-04-2021,NEGATIVE,0.9733395576477051
+896-6241,"Barrie, Canada","I found the food quality to be impressive, which is something I value.",05-01-2021,POSITIVE,0.9998725652694702
+415-9728,"Calgary, Canada","The homemade pasta was lacking, just like you'd expect at a good restaurant.",19-10-2022,NEGATIVE,0.9988142251968384
+921-8009,"Mississauga, Canada",I felt that the ambience could be more lacking.,19-09-2021,NEGATIVE,0.9986956715583801
+305-1679,"Richmond Hill, Canada","I found the food quality to be impressive, which is something I value.",23-08-2021,POSITIVE,0.9998725652694702
+367-7723,"Barrie, Canada","The staff were rude, which leaves a lot to be desired.",22-05-2022,NEGATIVE,0.9997267127037048
+312-7547,"Calgary, Canada","The rib-eye steak was lacking, just like you'd expect at a good restaurant.",17-05-2022,NEGATIVE,0.9960426092147827
+728-4015,"Hamilton, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",16-05-2022,NEGATIVE,0.9997001886367798
+865-2566,"Markham, Canada","Having an online reservation system is great, it is a unique touch.",17-09-2022,POSITIVE,0.9998608827590942
+768-3991,"Mississauga, Canada",I felt that the food quality could be more excellent.,07-06-2021,NEGATIVE,0.9746831059455872
+919-4195,"Richmond Hill, Canada","I found the service to be excellent, which is worth mentioning.",30-05-2022,POSITIVE,0.9997504353523254
+562-8292,"Hamilton, Canada","I found the price to be amazing, which is disappointing to see.",14-03-2021,NEGATIVE,0.9965259432792664
+182-1375,"Vancouver, Canada","The menu variety was amazing, really made my day!",10-05-2022,POSITIVE,0.999879002571106
+327-5746,"Toronto, Canada","The seafood platter was mediocre, just like you'd expect at a good restaurant.",29-11-2022,NEGATIVE,0.9781901836395264
+296-6439,"Richmond Hill, Canada",It's disappointing how the restaurant manages to keep such high standards.,16-04-2022,NEGATIVE,0.9996339082717896
+605-3690,"Calgary, Canada","service was top-notch, I would recommend to my friends.",24-06-2022,POSITIVE,0.9997715353965759
+827-6750,"Toronto, Canada","A bit disappointed with the ambience, was expecting something more excellent.",07-09-2021,NEGATIVE,0.9461642503738403
+949-9434,"Hamilton, Canada","The food quality was amazing, really made my day!",14-12-2021,POSITIVE,0.9998860359191895
+247-6658,"Calgary, Canada",It's mediocre how the restaurant manages to keep such high standards.,20-12-2021,NEGATIVE,0.9993466734886169
+455-6335,"North York, Canada","The rib-eye steak was amazing, just like you'd expect at a good restaurant.",09-07-2022,POSITIVE,0.9998396635055542
+272-1078,"Calgary, Canada","I found the menu variety to be impressive, which is worth mentioning.",02-06-2022,POSITIVE,0.9998295307159424
+379-5300,"Richmond Hill, Canada","A bit disappointed with the menu variety, was expecting something more disappointing.",24-06-2021,NEGATIVE,0.9997455477714539
+124-2818,"Mississauga, Canada","I found the price to be excellent, which is disappointing to see.",30-09-2021,NEGATIVE,0.9984808564186096
+355-8021,"Markham, Canada","I found the menu variety to be disappointing, which is something I value.",19-01-2021,NEGATIVE,0.8259468078613281
+437-2296,"Barrie, Canada","The atmosphere is excellent, it enhances the dining experience when you dine.",28-05-2021,POSITIVE,0.9998782873153687
+566-2380,"Markham, Canada","I found the menu variety to be mediocre, which is commendable.",11-09-2022,POSITIVE,0.9796724319458008
+596-9814,"Barrie, Canada","The staff were helpful and courteous, which enhances the dining experience.",06-01-2021,POSITIVE,0.9998432397842407
+325-6494,"Montreal, Canada","The atmosphere is mediocre, it puts a damper on the meal when you dine.",16-12-2021,NEGATIVE,0.9979221224784851
+693-7584,"Markham, Canada","ambience was top-notch, that deserves praise.",13-09-2021,POSITIVE,0.9997106194496155
+876-7772,"Markham, Canada","Having live music is great, it makes me want to come back.",24-01-2022,POSITIVE,0.9996114373207092
+217-5480,"Toronto, Canada","Having an online reservation system is great, it makes me want to come back.",10-06-2022,POSITIVE,0.9985986351966858
+107-5605,"Barrie, Canada","I found the price to be mediocre, which is worth mentioning.",25-05-2021,NEGATIVE,0.9826923608779907
+207-4810,"Hamilton, Canada","The food quality was amazing, really made my day!",10-01-2022,POSITIVE,0.9998860359191895
+442-5903,"Vancouver, Canada","The menu variety was impressive, really made my day!",01-10-2021,POSITIVE,0.9998639822006226
+267-2381,"Markham, Canada","A bit disappointed with the price, was expecting something more disappointing.",27-03-2021,NEGATIVE,0.9996732473373413
+132-6546,"Barrie, Canada","The ambience was impressive, really made my day!",09-10-2022,POSITIVE,0.9998801946640015
+252-7012,"Toronto, Canada","The price was amazing, really made my day!",03-06-2021,POSITIVE,0.9998729228973389
+609-3216,"Hamilton, Canada","Having valet parking is great, it is a unique touch.",27-05-2021,POSITIVE,0.9998635053634644
+149-6689,"Calgary, Canada","The menu variety was disappointing, really made my day!",01-08-2022,NEGATIVE,0.9997708201408386
+221-7128,"Calgary, Canada","Having valet parking is great, it makes me want to come back.",29-06-2021,POSITIVE,0.9977499842643738
+788-1388,"Barrie, Canada",I felt that the service could be more disappointing.,29-11-2021,NEGATIVE,0.9995256662368774
+836-4826,"Richmond Hill, Canada","ambience was top-notch, that deserves praise.",10-06-2022,POSITIVE,0.9997106194496155
+705-6022,"Richmond Hill, Canada","food quality was top-notch, that deserves praise.",11-09-2021,POSITIVE,0.9997196793556213
+187-3120,"Barrie, Canada","The menu variety was disappointing, really made my day!",15-06-2022,NEGATIVE,0.9997708201408386
+357-6026,"Toronto, Canada","The atmosphere is mediocre, it puts a damper on the meal when you dine.",22-11-2022,NEGATIVE,0.9979221224784851
+283-8963,"Markham, Canada",It's amazing how the restaurant manages to keep such high standards.,09-03-2021,POSITIVE,0.9998801946640015
+235-2283,"Markham, Canada","A bit disappointed with the menu variety, was expecting something more amazing.",06-11-2021,NEGATIVE,0.9858514666557312
+836-3991,"Montreal, Canada","The staff were welcoming, which puts a damper on the meal.",19-07-2022,POSITIVE,0.9935815334320068
+536-6420,"Toronto, Canada","I found the service to be amazing, which is something I value.",05-02-2021,POSITIVE,0.9998685121536255
+347-3100,"Markham, Canada","The staff were indifferent, which enhances the dining experience.",27-01-2022,POSITIVE,0.9958136677742004
+751-4598,"Barrie, Canada","The rib-eye steak was disappointing, just like you'd expect at a good restaurant.",12-05-2022,NEGATIVE,0.9931027889251709
+499-4445,"North York, Canada","I found the price to be disappointing, which is worth mentioning.",26-01-2022,NEGATIVE,0.9433618783950806
+234-8740,"Toronto, Canada","menu variety was top-notch, I will be coming back again.",04-01-2022,POSITIVE,0.9985097050666809
+649-6800,"Vancouver, Canada",I felt that the ambience could be more mediocre.,14-03-2022,NEGATIVE,0.9992478489875793
+874-4217,"Montreal, Canada",I felt that the price could be more amazing.,25-09-2022,POSITIVE,0.9698497653007507
+618-5359,"Toronto, Canada","menu variety was top-notch, that deserves praise.",05-08-2021,POSITIVE,0.999578058719635
+290-9869,"Montreal, Canada","The rib-eye steak was impressive, just like you'd expect at a good restaurant.",02-09-2021,POSITIVE,0.9998026490211487
+815-6755,"Montreal, Canada",I felt that the menu variety could be more mediocre.,02-10-2021,NEGATIVE,0.9997197985649109
+720-2086,"Markham, Canada","The seafood platter was lacking, just like you'd expect at a good restaurant.",08-06-2022,NEGATIVE,0.9980760812759399
+896-3213,"Montreal, Canada","Having live music is great, it is a unique touch.",23-11-2022,POSITIVE,0.9998883008956909
+138-2825,"Mississauga, Canada","A bit disappointed with the ambience, was expecting something more amazing.",01-04-2022,NEGATIVE,0.8618274927139282
+210-1686,"Barrie, Canada",It's amazing how the restaurant manages to offer a diverse menu.,14-03-2022,POSITIVE,0.9998838901519775
+539-5662,"Hamilton, Canada","A bit disappointed with the service, was expecting something more excellent.",18-01-2022,NEGATIVE,0.9702571034431458
+677-3443,"Richmond Hill, Canada","The ambience was excellent, really made my day!",03-09-2022,POSITIVE,0.9998782873153687
+839-4775,"Montreal, Canada","I found the food quality to be impressive, which is something I value.",07-03-2021,POSITIVE,0.9998725652694702
+247-6296,"Toronto, Canada","The service was lacking, really made my day!",04-12-2021,NEGATIVE,0.9995104074478149
+776-8201,"Richmond Hill, Canada",I felt that the food quality could be more impressive.,26-10-2022,POSITIVE,0.9869661331176758
+170-5619,"Montreal, Canada",I felt that the food quality could be more impressive.,19-06-2021,POSITIVE,0.9869661331176758
+548-8178,"Mississauga, Canada","The staff were helpful and courteous, which puts a damper on the meal.",18-02-2022,POSITIVE,0.9295772314071655
+690-3054,"Markham, Canada","menu variety was top-notch, I would recommend to my friends.",21-04-2022,POSITIVE,0.999599277973175
+590-5479,"Mississauga, Canada","The atmosphere is lacking, it puts a damper on the meal when you dine.",22-06-2022,NEGATIVE,0.999017596244812
+324-7100,"Markham, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",25-06-2022,NEGATIVE,0.9807111620903015
+711-1640,"Hamilton, Canada",It's mediocre how the restaurant manages to offer a diverse menu.,15-12-2021,NEGATIVE,0.9993835687637329
+895-9596,"Markham, Canada","menu variety was top-notch, I would recommend to my friends.",03-02-2022,POSITIVE,0.999599277973175
+273-5224,"Vancouver, Canada","A bit disappointed with the service, was expecting something more disappointing.",02-12-2021,NEGATIVE,0.9997339844703674
+261-8997,"Montreal, Canada",I felt that the price could be more mediocre.,25-03-2022,NEGATIVE,0.9994520545005798
+213-8890,"Vancouver, Canada","The atmosphere is amazing, it leaves a lot to be desired when you dine.",10-06-2021,POSITIVE,0.9720150232315063
+579-4086,"Vancouver, Canada","A bit disappointed with the price, was expecting something more amazing.",31-10-2022,NEGATIVE,0.961464524269104
+749-3671,"Richmond Hill, Canada","price was top-notch, I will be coming back again.",06-04-2021,POSITIVE,0.9988916516304016
+805-5220,"Markham, Canada","The atmosphere is amazing, it enhances the dining experience when you dine.",04-11-2021,POSITIVE,0.9998807907104492
+805-1307,"Montreal, Canada","I found the service to be disappointing, which is something I value.",10-08-2021,NEGATIVE,0.9938179850578308
+786-8659,"Hamilton, Canada",It's lacking how the restaurant manages to keep such high standards.,26-08-2021,NEGATIVE,0.9998077750205994
+706-9770,"Vancouver, Canada",It's disappointing how the restaurant manages to offer a diverse menu.,24-11-2022,NEGATIVE,0.9996597766876221
+559-5730,"Hamilton, Canada","ambience was top-notch, that deserves praise.",28-11-2021,POSITIVE,0.9997106194496155
+839-8852,"Hamilton, Canada","The menu variety was impressive, really made my day!",04-07-2021,POSITIVE,0.9998639822006226
+202-6530,"Markham, Canada","The service was disappointing, really made my day!",14-07-2021,NEGATIVE,0.9996739625930786
+189-6884,"Toronto, Canada","food quality was top-notch, I will be coming back again.",16-04-2021,POSITIVE,0.9995939135551453
+852-9416,"Montreal, Canada",It's amazing how the restaurant manages to offer a diverse menu.,30-01-2022,POSITIVE,0.9998838901519775
+574-1589,"North York, Canada","price was top-notch, I will be coming back again.",03-09-2021,POSITIVE,0.9988916516304016
+767-1411,"Toronto, Canada","I found the ambience to be disappointing, which is something I value.",04-08-2022,POSITIVE,0.9196363091468811
+804-3418,"North York, Canada",I felt that the menu variety could be more amazing.,10-12-2021,POSITIVE,0.9737040996551514
+471-5951,"Montreal, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",27-12-2022,POSITIVE,0.9996559619903564
+213-2851,"Mississauga, Canada","food quality was top-notch, I would recommend to my friends.",19-07-2021,POSITIVE,0.9998188614845276
+904-4158,"Barrie, Canada",It's amazing how the restaurant manages to keep such high standards.,25-03-2022,POSITIVE,0.9998801946640015
+565-3942,"Markham, Canada","The price was mediocre, really made my day!",05-01-2022,NEGATIVE,0.9972425699234009
+772-7115,"Vancouver, Canada","Having valet parking is great, it is a unique touch.",16-11-2022,POSITIVE,0.9998635053634644
+609-5718,"Vancouver, Canada","I found the ambience to be lacking, which is something I value.",23-06-2022,NEGATIVE,0.9882502555847168
+339-6326,"Hamilton, Canada","A bit disappointed with the food quality, was expecting something more mediocre.",24-09-2021,NEGATIVE,0.9997369647026062
+865-6799,"North York, Canada","A bit disappointed with the food quality, was expecting something more disappointing.",28-05-2021,NEGATIVE,0.9996964931488037
+625-1246,"Richmond Hill, Canada","Having outdoor seating is great, it is a unique touch.",10-07-2022,POSITIVE,0.9998788833618164
+424-1065,"Barrie, Canada","The atmosphere is mediocre, it enhances the dining experience when you dine.",05-05-2022,POSITIVE,0.9962981343269348
+725-9149,"Montreal, Canada","The staff were welcoming, which puts a damper on the meal.",27-08-2022,POSITIVE,0.9935815334320068
+791-3733,"Mississauga, Canada","The staff were indifferent, which puts a damper on the meal.",02-04-2022,NEGATIVE,0.998421311378479
+571-3897,"Calgary, Canada","I found the service to be lacking, which is disappointing to see.",19-08-2021,NEGATIVE,0.9997972846031189
+955-1189,"Hamilton, Canada",I felt that the food quality could be more excellent.,07-08-2022,NEGATIVE,0.9746831059455872
+371-2145,"Calgary, Canada",It's impressive how the restaurant manages to keep such high standards.,05-01-2022,POSITIVE,0.9998654127120972
+671-7841,"North York, Canada","The price was disappointing, really made my day!",13-01-2022,NEGATIVE,0.9993784427642822
+365-4117,"Barrie, Canada","The homemade pasta was mediocre, just like you'd expect at a good restaurant.",25-08-2021,NEGATIVE,0.9833232760429382
+513-4312,"North York, Canada","The staff were helpful and courteous, which enhances the dining experience.",28-10-2022,POSITIVE,0.9998432397842407
+865-4633,"North York, Canada","price was top-notch, I would recommend to my friends.",18-08-2022,POSITIVE,0.9997650980949402
+563-9404,"Vancouver, Canada","Having valet parking is great, it is a unique touch.",19-05-2021,POSITIVE,0.9998635053634644
+132-4997,"North York, Canada","ambience was top-notch, that deserves praise.",13-11-2022,POSITIVE,0.9997106194496155
+559-5246,"Vancouver, Canada","The atmosphere is mediocre, it puts a damper on the meal when you dine.",23-03-2021,NEGATIVE,0.9979221224784851
+742-1373,"Hamilton, Canada","price was top-notch, I would recommend to my friends.",16-06-2022,POSITIVE,0.9997650980949402
+836-1706,"Mississauga, Canada","Having valet parking is great, it adds a lot of convenience.",18-10-2022,POSITIVE,0.9997803568840027
+305-1087,"Richmond Hill, Canada","The vegan burger was excellent, just like you'd expect at a good restaurant.",14-12-2022,POSITIVE,0.9998108744621277
+333-8263,"Toronto, Canada",It's mediocre how the restaurant manages to keep such high standards.,27-02-2022,NEGATIVE,0.9993466734886169
+709-8275,"Vancouver, Canada",It's disappointing how the restaurant manages to offer a diverse menu.,24-11-2021,NEGATIVE,0.9996597766876221
+424-1109,"Hamilton, Canada","service was top-notch, that deserves praise.",12-05-2022,POSITIVE,0.9996030926704407
+396-9004,"Markham, Canada",I felt that the service could be more lacking.,20-02-2022,NEGATIVE,0.9988563060760498
+367-7489,"Toronto, Canada","The staff were indifferent, which leaves a lot to be desired.",26-07-2022,NEGATIVE,0.9997425675392151
+280-1697,"Calgary, Canada",I felt that the food quality could be more disappointing.,17-05-2021,NEGATIVE,0.9996645450592041
+266-3315,"Hamilton, Canada",I felt that the menu variety could be more mediocre.,05-01-2021,NEGATIVE,0.9997197985649109
+660-8239,"Toronto, Canada","I found the menu variety to be lacking, which is something I value.",10-12-2022,NEGATIVE,0.9961423277854919
+318-9150,"Barrie, Canada","A bit disappointed with the ambience, was expecting something more impressive.",09-03-2022,NEGATIVE,0.9168052077293396
+709-6548,"Markham, Canada","The atmosphere is amazing, it puts a damper on the meal when you dine.",14-06-2021,POSITIVE,0.9997496008872986
+211-2965,"North York, Canada",I felt that the price could be more excellent.,24-12-2021,NEGATIVE,0.9823895692825317
+549-7359,"Mississauga, Canada","ambience was top-notch, that deserves praise.",06-12-2022,POSITIVE,0.9997106194496155
+977-2254,"Calgary, Canada",It's disappointing how the restaurant manages to keep such high standards.,22-04-2021,NEGATIVE,0.9996339082717896
+127-7911,"Mississauga, Canada","The food quality was amazing, really made my day!",08-09-2022,POSITIVE,0.9998860359191895
+734-1800,"Markham, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",08-11-2022,POSITIVE,0.5452030897140503
+577-7791,"Markham, Canada","The rib-eye steak was amazing, just like you'd expect at a good restaurant.",16-10-2022,POSITIVE,0.9998396635055542
+852-6268,"Calgary, Canada",It's disappointing how the restaurant manages to retain a loyal clientele.,05-09-2021,NEGATIVE,0.9995915293693542
+879-3713,"Montreal, Canada","The price was lacking, really made my day!",29-03-2022,NEGATIVE,0.998104453086853
+682-2861,"Hamilton, Canada","menu variety was top-notch, that deserves praise.",04-06-2022,POSITIVE,0.999578058719635
+755-1969,"Toronto, Canada","menu variety was top-notch, that deserves praise.",04-10-2022,POSITIVE,0.999578058719635
+958-3486,"Hamilton, Canada",It's excellent how the restaurant manages to keep such high standards.,25-11-2022,POSITIVE,0.9998593330383301
+189-1942,"Richmond Hill, Canada",It's lacking how the restaurant manages to offer a diverse menu.,29-06-2022,NEGATIVE,0.9998101592063904
+567-6839,"Markham, Canada","A bit disappointed with the ambience, was expecting something more mediocre.",22-03-2022,NEGATIVE,0.9996451139450073
+525-9194,"Markham, Canada",It's mediocre how the restaurant manages to keep such high standards.,28-06-2021,NEGATIVE,0.9993466734886169
+156-8175,"Markham, Canada","The menu variety was impressive, really made my day!",04-12-2022,POSITIVE,0.9998639822006226
+770-8639,"North York, Canada",It's impressive how the restaurant manages to retain a loyal clientele.,26-10-2021,POSITIVE,0.9998718500137329
+629-1622,"Montreal, Canada","Having outdoor seating is great, it adds a lot of convenience.",06-08-2021,POSITIVE,0.9998440742492676
+133-4390,"Markham, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,30-01-2021,POSITIVE,0.9998660087585449
+565-4054,"Montreal, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",12-12-2022,POSITIVE,0.9996559619903564
+888-8363,"Montreal, Canada",I felt that the service could be more impressive.,15-02-2022,POSITIVE,0.9947590231895447
+604-8477,"Barrie, Canada","I found the ambience to be excellent, which is something I value.",19-09-2021,POSITIVE,0.9998462200164795
+426-6534,"Vancouver, Canada","I found the price to be impressive, which is disappointing to see.",06-05-2022,NEGATIVE,0.9952974915504456
+749-9678,"Montreal, Canada","I found the menu variety to be amazing, which is disappointing to see.",07-12-2021,NEGATIVE,0.9942069053649902
+129-6438,"Montreal, Canada","I found the ambience to be amazing, which is worth mentioning.",07-04-2022,POSITIVE,0.9998070597648621
+522-9461,"North York, Canada",It's mediocre how the restaurant manages to retain a loyal clientele.,13-04-2021,NEGATIVE,0.9992170333862305
+382-4031,"Vancouver, Canada",It's lacking how the restaurant manages to offer a diverse menu.,02-08-2022,NEGATIVE,0.9998101592063904
+242-5136,"Vancouver, Canada",It's amazing how the restaurant manages to retain a loyal clientele.,17-06-2021,POSITIVE,0.9998823404312134
+833-7591,"Richmond Hill, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",20-11-2021,POSITIVE,0.5452030897140503
+371-1510,"Montreal, Canada",I felt that the price could be more lacking.,21-03-2021,NEGATIVE,0.9981485605239868
+698-6982,"Barrie, Canada",I felt that the price could be more lacking.,13-06-2021,NEGATIVE,0.9981485605239868
+224-2211,"Montreal, Canada","The staff were indifferent, which puts a damper on the meal.",06-05-2022,NEGATIVE,0.998421311378479
+673-1840,"Markham, Canada","I found the ambience to be disappointing, which is commendable.",09-09-2022,POSITIVE,0.9583474397659302
+849-5683,"Vancouver, Canada","A bit disappointed with the price, was expecting something more disappointing.",12-11-2022,NEGATIVE,0.9996732473373413
+719-2009,"Mississauga, Canada","The atmosphere is amazing, it enhances the dining experience when you dine.",08-08-2022,POSITIVE,0.9998807907104492
+162-5994,"Richmond Hill, Canada","A bit disappointed with the price, was expecting something more impressive.",04-11-2022,NEGATIVE,0.9543344974517822
+550-6218,"Mississauga, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",16-11-2022,NEGATIVE,0.9997001886367798
+925-2601,"Toronto, Canada","The rib-eye steak was disappointing, just like you'd expect at a good restaurant.",06-12-2021,NEGATIVE,0.9931027889251709
+833-4889,"Toronto, Canada","Having outdoor seating is great, it makes me want to come back.",18-06-2022,POSITIVE,0.9991706609725952
+901-7278,"Barrie, Canada","The rib-eye steak was amazing, just like you'd expect at a good restaurant.",30-06-2021,POSITIVE,0.9998396635055542
+871-5950,"Mississauga, Canada","The menu variety was impressive, really made my day!",20-09-2022,POSITIVE,0.9998639822006226
+419-2418,"Barrie, Canada",It's excellent how the restaurant manages to keep such high standards.,12-10-2022,POSITIVE,0.9998593330383301
+140-7819,"Toronto, Canada","Having valet parking is great, it adds a lot of convenience.",08-09-2021,POSITIVE,0.9997803568840027
+399-9091,"Vancouver, Canada","A bit disappointed with the ambience, was expecting something more impressive.",28-01-2021,NEGATIVE,0.9168052077293396
+992-7875,"Montreal, Canada","Having live music is great, it adds a lot of convenience.",24-04-2022,POSITIVE,0.9998596906661987
+403-1232,"North York, Canada","service was top-notch, I would recommend to my friends.",22-10-2022,POSITIVE,0.9997715353965759
+528-4603,"North York, Canada","Having an online reservation system is great, it makes me want to come back.",12-10-2021,POSITIVE,0.9985986351966858
+854-7930,"Hamilton, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",12-03-2021,NEGATIVE,0.9983310103416443
+590-5218,"Barrie, Canada","The staff were indifferent, which leaves a lot to be desired.",07-02-2021,NEGATIVE,0.9997425675392151
+980-7707,"Richmond Hill, Canada","The food quality was mediocre, really made my day!",07-07-2022,NEGATIVE,0.9991081357002258
+786-7159,"Barrie, Canada","The atmosphere is mediocre, it puts a damper on the meal when you dine.",15-04-2021,NEGATIVE,0.9979221224784851
+573-1795,"Mississauga, Canada",I felt that the menu variety could be more lacking.,05-09-2022,NEGATIVE,0.9993981122970581
+267-3961,"Vancouver, Canada","Having outdoor seating is great, it makes me want to come back.",31-05-2021,POSITIVE,0.9991706609725952
+914-5977,"Richmond Hill, Canada","A bit disappointed with the ambience, was expecting something more disappointing.",19-05-2022,NEGATIVE,0.9996769428253174
+112-4949,"Calgary, Canada","The staff were helpful and courteous, which enhances the dining experience.",07-10-2022,POSITIVE,0.9998432397842407
+862-4040,"Barrie, Canada","The staff were helpful and courteous, which puts a damper on the meal.",18-12-2022,POSITIVE,0.9295772314071655
+347-3078,"Hamilton, Canada","The staff were helpful and courteous, which enhances the dining experience.",24-12-2022,POSITIVE,0.9998432397842407
+993-7820,"North York, Canada","The staff were rude, which leaves a lot to be desired.",25-09-2021,NEGATIVE,0.9997267127037048
+646-9719,"Markham, Canada",It's lacking how the restaurant manages to offer a diverse menu.,12-01-2021,NEGATIVE,0.9998101592063904
+445-9438,"Markham, Canada","The atmosphere is lacking, it puts a damper on the meal when you dine.",01-07-2022,NEGATIVE,0.999017596244812
+732-2361,"Calgary, Canada","I found the service to be disappointing, which is disappointing to see.",19-09-2021,NEGATIVE,0.999764621257782
+349-8044,"Montreal, Canada",It's lacking how the restaurant manages to offer a diverse menu.,06-06-2021,NEGATIVE,0.9998101592063904
+506-5203,"North York, Canada","The staff were helpful and courteous, which enhances the dining experience.",30-07-2021,POSITIVE,0.9998432397842407
+390-4086,"Vancouver, Canada","I found the service to be impressive, which is commendable.",06-05-2022,POSITIVE,0.9998486042022705
+606-3610,"Calgary, Canada","The staff were indifferent, which puts a damper on the meal.",22-12-2021,NEGATIVE,0.998421311378479
+305-9509,"Hamilton, Canada","service was top-notch, I would recommend to my friends.",16-10-2022,POSITIVE,0.9997715353965759
+334-4696,"Montreal, Canada","The homemade pasta was amazing, just like you'd expect at a good restaurant.",11-02-2021,POSITIVE,0.9998596906661987
+312-8568,"Hamilton, Canada","Having live music is great, it adds a lot of convenience.",06-08-2022,POSITIVE,0.9998596906661987
+229-4277,"Calgary, Canada","The staff were welcoming, which leaves a lot to be desired.",23-02-2021,NEGATIVE,0.9874502420425415
+973-9526,"Vancouver, Canada","Having live music is great, it makes me want to come back.",29-04-2022,POSITIVE,0.9996114373207092
+413-4481,"Vancouver, Canada","The price was lacking, really made my day!",26-08-2021,NEGATIVE,0.998104453086853
+137-7065,"Markham, Canada",It's excellent how the restaurant manages to offer a diverse menu.,20-11-2022,POSITIVE,0.999873161315918
+224-3148,"Richmond Hill, Canada",I felt that the food quality could be more amazing.,01-11-2022,POSITIVE,0.9861753582954407
+558-7555,"Richmond Hill, Canada","The food quality was mediocre, really made my day!",11-01-2022,NEGATIVE,0.9991081357002258
+924-9310,"North York, Canada","I found the service to be mediocre, which is worth mentioning.",20-01-2021,NEGATIVE,0.9979795813560486
+226-7154,"Barrie, Canada","I found the menu variety to be disappointing, which is something I value.",17-04-2022,NEGATIVE,0.8259468078613281
+506-2566,"Vancouver, Canada","The seafood platter was impressive, just like you'd expect at a good restaurant.",15-10-2021,POSITIVE,0.9998565912246704
+395-2432,"North York, Canada","The service was disappointing, really made my day!",27-02-2022,NEGATIVE,0.9996739625930786
+217-2605,"Mississauga, Canada","The staff were helpful and courteous, which puts a damper on the meal.",27-08-2021,POSITIVE,0.9295772314071655
+918-7035,"Calgary, Canada","A bit disappointed with the menu variety, was expecting something more mediocre.",19-04-2022,NEGATIVE,0.9997679591178894
+928-4178,"Toronto, Canada","The price was mediocre, really made my day!",03-12-2022,NEGATIVE,0.9972425699234009
+806-2652,"North York, Canada",I felt that the service could be more impressive.,24-10-2022,POSITIVE,0.9947590231895447
+602-9739,"Richmond Hill, Canada","The atmosphere is excellent, it enhances the dining experience when you dine.",07-12-2021,POSITIVE,0.9998782873153687
+594-1356,"Calgary, Canada","The rib-eye steak was disappointing, just like you'd expect at a good restaurant.",29-11-2021,NEGATIVE,0.9931027889251709
+683-7047,"Mississauga, Canada","The service was lacking, really made my day!",07-10-2022,NEGATIVE,0.9995104074478149
+376-4564,"North York, Canada","A bit disappointed with the ambience, was expecting something more disappointing.",10-03-2022,NEGATIVE,0.9996769428253174
+810-8430,"Richmond Hill, Canada","The atmosphere is lacking, it leaves a lot to be desired when you dine.",08-09-2021,NEGATIVE,0.9996745586395264
+878-5694,"Hamilton, Canada","The vegan burger was impressive, just like you'd expect at a good restaurant.",01-04-2021,POSITIVE,0.9998288154602051
+764-9518,"Hamilton, Canada","Having live music is great, it makes me want to come back.",06-12-2022,POSITIVE,0.9996114373207092
+257-2819,"Mississauga, Canada","Having an online reservation system is great, it adds a lot of convenience.",28-11-2021,POSITIVE,0.9997158646583557
+169-6350,"Mississauga, Canada","A bit disappointed with the food quality, was expecting something more lacking.",30-10-2022,NEGATIVE,0.9997168183326721
+373-8492,"North York, Canada","The staff were rude, which puts a damper on the meal.",10-08-2021,NEGATIVE,0.997177004814148
+837-5203,"Toronto, Canada","Having live music is great, it adds a lot of convenience.",25-09-2021,POSITIVE,0.9998596906661987
+899-2147,"Montreal, Canada","Having valet parking is great, it makes me want to come back.",13-01-2022,POSITIVE,0.9977499842643738
+666-3923,"Barrie, Canada",I felt that the price could be more lacking.,10-01-2022,NEGATIVE,0.9981485605239868
+415-4128,"Toronto, Canada","The staff were helpful and courteous, which puts a damper on the meal.",14-10-2022,POSITIVE,0.9295772314071655
+946-2402,"Montreal, Canada","The rib-eye steak was lacking, just like you'd expect at a good restaurant.",30-07-2022,NEGATIVE,0.9960426092147827
+136-8570,"Toronto, Canada","The staff were welcoming, which puts a damper on the meal.",13-12-2022,POSITIVE,0.9935815334320068
+721-9807,"Markham, Canada","menu variety was top-notch, that deserves praise.",08-02-2021,POSITIVE,0.999578058719635
+931-7438,"Montreal, Canada","I found the service to be impressive, which is something I value.",08-12-2022,POSITIVE,0.9998524188995361
+445-2811,"Mississauga, Canada",It's lacking how the restaurant manages to keep such high standards.,15-06-2022,NEGATIVE,0.9998077750205994
+191-7210,"North York, Canada","ambience was top-notch, I would recommend to my friends.",24-02-2022,POSITIVE,0.9998075366020203
+187-6797,"Markham, Canada","The seafood platter was impressive, just like you'd expect at a good restaurant.",25-09-2022,POSITIVE,0.9998565912246704
+889-5380,"Barrie, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",12-07-2021,NEGATIVE,0.9807111620903015
+601-6022,"Toronto, Canada","The atmosphere is impressive, it puts a damper on the meal when you dine.",21-04-2022,POSITIVE,0.9995131492614746
+657-2787,"Mississauga, Canada","food quality was top-notch, I will be coming back again.",21-08-2021,POSITIVE,0.9995939135551453
+266-6205,"Barrie, Canada","A bit disappointed with the ambience, was expecting something more impressive.",01-11-2022,NEGATIVE,0.9168052077293396
+432-2524,"Hamilton, Canada",It's mediocre how the restaurant manages to offer a diverse menu.,24-03-2022,NEGATIVE,0.9993835687637329
+566-8717,"Richmond Hill, Canada",I felt that the menu variety could be more amazing.,01-01-2022,POSITIVE,0.9737040996551514
+917-5478,"Hamilton, Canada","I found the price to be lacking, which is something I value.",10-11-2021,NEGATIVE,0.9912422895431519
+439-6753,"Toronto, Canada",I felt that the food quality could be more lacking.,23-05-2022,NEGATIVE,0.9994675517082214
+759-3180,"Hamilton, Canada","A bit disappointed with the ambience, was expecting something more lacking.",22-12-2021,NEGATIVE,0.9996377229690552
+725-7385,"North York, Canada",It's impressive how the restaurant manages to keep such high standards.,11-09-2021,POSITIVE,0.9998654127120972
+105-7655,"Montreal, Canada","Having live music is great, it makes me want to come back.",14-07-2021,POSITIVE,0.9996114373207092
+429-9171,"Hamilton, Canada",I felt that the ambience could be more mediocre.,31-01-2021,NEGATIVE,0.9992478489875793
+216-9874,"Hamilton, Canada","I found the menu variety to be excellent, which is something I value.",10-10-2021,POSITIVE,0.9998400211334229
+974-4021,"Hamilton, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,05-01-2022,POSITIVE,0.9998660087585449
+463-7161,"Richmond Hill, Canada","menu variety was top-notch, that deserves praise.",30-03-2022,POSITIVE,0.999578058719635
+363-3489,"North York, Canada","The food quality was mediocre, really made my day!",04-05-2021,NEGATIVE,0.9991081357002258
+569-1167,"Richmond Hill, Canada","I found the ambience to be impressive, which is worth mentioning.",08-10-2021,POSITIVE,0.9998034834861755
+477-2661,"Toronto, Canada","The staff were rude, which leaves a lot to be desired.",17-06-2022,NEGATIVE,0.9997267127037048
+531-4281,"Toronto, Canada","Having valet parking is great, it adds a lot of convenience.",30-12-2022,POSITIVE,0.9997803568840027
+459-1368,"Mississauga, Canada","The ambience was mediocre, really made my day!",06-10-2021,NEGATIVE,0.9962673783302307
+128-6971,"Toronto, Canada","A bit disappointed with the food quality, was expecting something more lacking.",01-07-2022,NEGATIVE,0.9997168183326721
+265-2394,"Richmond Hill, Canada","price was top-notch, I will be coming back again.",18-10-2022,POSITIVE,0.9988916516304016
+310-8632,"Markham, Canada","I found the menu variety to be impressive, which is disappointing to see.",06-01-2021,NEGATIVE,0.9945003986358643
+817-5200,"Markham, Canada","The seafood platter was disappointing, just like you'd expect at a good restaurant.",04-07-2022,NEGATIVE,0.9967160224914551
+420-8857,"Mississauga, Canada","Having valet parking is great, it is a unique touch.",18-05-2022,POSITIVE,0.9998635053634644
+610-2544,"Montreal, Canada","The atmosphere is excellent, it leaves a lot to be desired when you dine.",17-07-2022,POSITIVE,0.5452030897140503
+991-2777,"Markham, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",24-01-2021,NEGATIVE,0.9983310103416443
+971-9352,"Calgary, Canada","The atmosphere is amazing, it puts a damper on the meal when you dine.",08-06-2022,POSITIVE,0.9997496008872986
+832-1704,"North York, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",23-07-2021,NEGATIVE,0.9807111620903015
+441-3426,"Mississauga, Canada","The vegan burger was excellent, just like you'd expect at a good restaurant.",21-07-2021,POSITIVE,0.9998108744621277
+377-4199,"Mississauga, Canada","The atmosphere is impressive, it puts a damper on the meal when you dine.",11-09-2021,POSITIVE,0.9995131492614746
+772-5569,"Vancouver, Canada","I found the ambience to be excellent, which is worth mentioning.",16-06-2022,POSITIVE,0.9997149109840393
+996-1168,"Barrie, Canada","menu variety was top-notch, I will be coming back again.",12-11-2022,POSITIVE,0.9985097050666809
+906-4742,"North York, Canada","I found the ambience to be disappointing, which is commendable.",05-04-2022,POSITIVE,0.9583474397659302
+864-7798,"Richmond Hill, Canada","service was top-notch, I would recommend to my friends.",20-12-2021,POSITIVE,0.9997715353965759
+297-7439,"Montreal, Canada","I found the food quality to be mediocre, which is commendable.",21-10-2021,POSITIVE,0.9274148344993591
+313-2881,"Vancouver, Canada","A bit disappointed with the price, was expecting something more mediocre.",30-12-2021,NEGATIVE,0.9996600151062012
+792-6174,"Vancouver, Canada",It's mediocre how the restaurant manages to keep such high standards.,02-11-2022,NEGATIVE,0.9993466734886169
+379-3848,"Mississauga, Canada","menu variety was top-notch, I will be coming back again.",18-08-2022,POSITIVE,0.9985097050666809
+835-9523,"Mississauga, Canada","The homemade pasta was mediocre, just like you'd expect at a good restaurant.",30-11-2021,NEGATIVE,0.9833232760429382
+441-4829,"Richmond Hill, Canada","The rib-eye steak was disappointing, just like you'd expect at a good restaurant.",22-03-2022,NEGATIVE,0.9931027889251709
+758-6382,"Richmond Hill, Canada","ambience was top-notch, I would recommend to my friends.",12-03-2021,POSITIVE,0.9998075366020203
+731-3634,"Calgary, Canada",It's mediocre how the restaurant manages to retain a loyal clientele.,01-12-2022,NEGATIVE,0.9992170333862305
+606-5276,"Calgary, Canada","The staff were rude, which puts a damper on the meal.",22-08-2021,NEGATIVE,0.997177004814148
+367-5447,"Barrie, Canada","A bit disappointed with the food quality, was expecting something more mediocre.",31-07-2021,NEGATIVE,0.9997369647026062
+447-8956,"North York, Canada","Having outdoor seating is great, it is a unique touch.",19-03-2022,POSITIVE,0.9998788833618164
+790-6630,"Richmond Hill, Canada","A bit disappointed with the menu variety, was expecting something more excellent.",26-11-2022,NEGATIVE,0.9878568649291992
+493-6572,"Hamilton, Canada","The staff were rude, which enhances the dining experience.",19-01-2022,POSITIVE,0.9983187913894653
+374-4634,"Mississauga, Canada","The staff were indifferent, which enhances the dining experience.",19-01-2022,POSITIVE,0.9958136677742004
+722-7077,"Barrie, Canada",It's lacking how the restaurant manages to keep such high standards.,20-05-2021,NEGATIVE,0.9998077750205994
+843-4280,"Hamilton, Canada","The service was impressive, really made my day!",14-09-2021,POSITIVE,0.9998716115951538
+869-3723,"Richmond Hill, Canada","I found the menu variety to be impressive, which is something I value.",28-11-2022,POSITIVE,0.9998605251312256
+131-5074,"Markham, Canada","The homemade pasta was mediocre, just like you'd expect at a good restaurant.",22-08-2021,NEGATIVE,0.9833232760429382
+714-2865,"Vancouver, Canada","A bit disappointed with the service, was expecting something more impressive.",28-09-2022,NEGATIVE,0.9524822235107422
+739-4498,"North York, Canada","The ambience was disappointing, really made my day!",22-07-2021,NEGATIVE,0.9996107220649719
+895-5592,"Mississauga, Canada",It's disappointing how the restaurant manages to retain a loyal clientele.,26-10-2021,NEGATIVE,0.9995915293693542
+161-1868,"Barrie, Canada","The ambience was amazing, really made my day!",12-10-2022,POSITIVE,0.9998871088027954
+430-7160,"Hamilton, Canada","The seafood platter was mediocre, just like you'd expect at a good restaurant.",16-12-2021,NEGATIVE,0.9781901836395264
+865-5344,"Montreal, Canada","The ambience was impressive, really made my day!",08-07-2022,POSITIVE,0.9998801946640015
+465-9908,"Mississauga, Canada","The menu variety was amazing, really made my day!",24-05-2021,POSITIVE,0.999879002571106
+146-2087,"Toronto, Canada","I found the ambience to be disappointing, which is worth mentioning.",15-01-2022,NEGATIVE,0.991943359375
+548-1302,"Toronto, Canada","I found the menu variety to be lacking, which is disappointing to see.",04-01-2022,NEGATIVE,0.9998006224632263
+605-4858,"Toronto, Canada","A bit disappointed with the menu variety, was expecting something more mediocre.",24-08-2021,NEGATIVE,0.9997679591178894
+190-2448,"Montreal, Canada","The seafood platter was lacking, just like you'd expect at a good restaurant.",10-08-2022,NEGATIVE,0.9980760812759399
+607-8052,"North York, Canada","The rib-eye steak was amazing, just like you'd expect at a good restaurant.",01-10-2021,POSITIVE,0.9998396635055542
+742-6391,"Vancouver, Canada","The staff were helpful and courteous, which enhances the dining experience.",10-06-2021,POSITIVE,0.9998432397842407
+272-2251,"Richmond Hill, Canada",I felt that the menu variety could be more impressive.,04-10-2022,POSITIVE,0.9436776041984558
+248-4388,"Hamilton, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",19-06-2021,POSITIVE,0.9996559619903564
+539-9554,"Markham, Canada","Having valet parking is great, it makes me want to come back.",30-12-2021,POSITIVE,0.9977499842643738
+352-3079,"Toronto, Canada","Having an online reservation system is great, it adds a lot of convenience.",17-08-2022,POSITIVE,0.9997158646583557
+128-6108,"Hamilton, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",20-07-2022,POSITIVE,0.9996559619903564
+881-3579,"Markham, Canada","I found the price to be lacking, which is disappointing to see.",25-07-2021,NEGATIVE,0.9997630715370178
+967-7047,"Montreal, Canada","I found the ambience to be excellent, which is commendable.",30-09-2021,POSITIVE,0.9998040795326233
+468-6532,"Barrie, Canada","The service was disappointing, really made my day!",16-12-2021,NEGATIVE,0.9996739625930786
+170-5657,"Calgary, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,04-12-2022,POSITIVE,0.9998660087585449
+238-1287,"Vancouver, Canada",I felt that the service could be more impressive.,21-03-2021,POSITIVE,0.9947590231895447
+451-3326,"Calgary, Canada",I felt that the food quality could be more lacking.,26-06-2021,NEGATIVE,0.9994675517082214
+769-7070,"Montreal, Canada","I found the price to be excellent, which is commendable.",09-02-2022,POSITIVE,0.9997071623802185
+855-9524,"Mississauga, Canada","The atmosphere is lacking, it puts a damper on the meal when you dine.",12-06-2022,NEGATIVE,0.999017596244812
+103-2698,"Toronto, Canada","menu variety was top-notch, I will be coming back again.",04-11-2022,POSITIVE,0.9985097050666809
+540-1656,"Hamilton, Canada","menu variety was top-notch, I will be coming back again.",07-07-2022,POSITIVE,0.9985097050666809
+572-2780,"Toronto, Canada","The food quality was disappointing, really made my day!",24-02-2021,NEGATIVE,0.9997619986534119
+569-9001,"Mississauga, Canada","food quality was top-notch, that deserves praise.",12-09-2021,POSITIVE,0.9997196793556213
+129-4213,"Richmond Hill, Canada","The vegan burger was mediocre, just like you'd expect at a good restaurant.",27-12-2021,NEGATIVE,0.9685850143432617
+812-6180,"Vancouver, Canada","A bit disappointed with the menu variety, was expecting something more lacking.",21-01-2022,NEGATIVE,0.999742329120636
+520-4312,"Markham, Canada","Having valet parking is great, it is a unique touch.",10-08-2021,POSITIVE,0.9998635053634644
+279-9919,"Markham, Canada","The vegan burger was excellent, just like you'd expect at a good restaurant.",10-01-2022,POSITIVE,0.9998108744621277
+433-3482,"Toronto, Canada",I felt that the ambience could be more amazing.,23-05-2021,POSITIVE,0.9976504445075989
+694-1084,"Markham, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",16-02-2021,NEGATIVE,0.9807111620903015
+997-1877,"North York, Canada","The menu variety was disappointing, really made my day!",01-12-2022,NEGATIVE,0.9997708201408386
+241-9892,"Barrie, Canada","I found the menu variety to be amazing, which is disappointing to see.",06-01-2021,NEGATIVE,0.9942069053649902
+635-7511,"Hamilton, Canada","The service was amazing, really made my day!",18-02-2021,POSITIVE,0.9998795986175537
+577-5639,"Toronto, Canada",It's excellent how the restaurant manages to offer a diverse menu.,25-08-2021,POSITIVE,0.999873161315918
+764-5076,"Vancouver, Canada","service was top-notch, I will be coming back again.",28-07-2022,POSITIVE,0.9976142644882202
+523-3720,"North York, Canada","Having an online reservation system is great, it is a unique touch.",03-04-2022,POSITIVE,0.9998608827590942
+151-4079,"North York, Canada","menu variety was top-notch, I will be coming back again.",15-06-2021,POSITIVE,0.9985097050666809
+796-9997,"Calgary, Canada","The staff were rude, which enhances the dining experience.",22-02-2022,POSITIVE,0.9983187913894653
+375-9760,"Barrie, Canada","ambience was top-notch, I would recommend to my friends.",12-07-2021,POSITIVE,0.9998075366020203
+740-7290,"Vancouver, Canada","The staff were welcoming, which enhances the dining experience.",12-01-2021,POSITIVE,0.9998548030853271
+444-8112,"North York, Canada","service was top-notch, I will be coming back again.",15-10-2022,POSITIVE,0.9976142644882202
+589-8986,"Toronto, Canada","menu variety was top-notch, I will be coming back again.",11-10-2021,POSITIVE,0.9985097050666809
+426-5433,"Montreal, Canada","The atmosphere is mediocre, it leaves a lot to be desired when you dine.",12-05-2021,NEGATIVE,0.9996678829193115
+720-8274,"Toronto, Canada",I felt that the food quality could be more amazing.,19-02-2022,POSITIVE,0.9861753582954407
+779-9642,"Vancouver, Canada","I found the service to be excellent, which is disappointing to see.",19-12-2022,NEGATIVE,0.991141676902771
+280-8307,"Toronto, Canada","The staff were rude, which enhances the dining experience.",20-04-2022,POSITIVE,0.9983187913894653
+485-1001,"Calgary, Canada","I found the food quality to be amazing, which is worth mentioning.",15-02-2022,POSITIVE,0.9998546838760376
+704-1949,"Toronto, Canada","I found the service to be impressive, which is worth mentioning.",09-08-2022,POSITIVE,0.9998218417167664
+566-9356,"Toronto, Canada",It's mediocre how the restaurant manages to keep such high standards.,23-10-2022,NEGATIVE,0.9993466734886169
+691-5716,"Hamilton, Canada","The staff were helpful and courteous, which leaves a lot to be desired.",20-12-2022,NEGATIVE,0.9807111620903015
+347-6110,"North York, Canada","I found the service to be lacking, which is something I value.",08-01-2021,NEGATIVE,0.9992876648902893
+379-9434,"Vancouver, Canada","The staff were helpful and courteous, which puts a damper on the meal.",24-05-2022,POSITIVE,0.9295772314071655
+262-6507,"Hamilton, Canada","The atmosphere is excellent, it enhances the dining experience when you dine.",26-06-2022,POSITIVE,0.9998782873153687
+833-2584,"Barrie, Canada","A bit disappointed with the food quality, was expecting something more mediocre.",24-01-2021,NEGATIVE,0.9997369647026062
+463-2259,"Montreal, Canada",I felt that the ambience could be more lacking.,09-06-2021,NEGATIVE,0.9986956715583801
+413-4209,"North York, Canada",It's amazing how the restaurant manages to keep such high standards.,01-06-2021,POSITIVE,0.9998801946640015
+775-5048,"Mississauga, Canada",It's amazing how the restaurant manages to keep such high standards.,11-04-2022,POSITIVE,0.9998801946640015
+942-9788,"Mississauga, Canada","The staff were rude, which leaves a lot to be desired.",15-03-2021,NEGATIVE,0.9997267127037048
+288-8117,"Markham, Canada","The atmosphere is mediocre, it leaves a lot to be desired when you dine.",13-09-2022,NEGATIVE,0.9996678829193115
+562-5873,"Vancouver, Canada",It's impressive how the restaurant manages to keep such high standards.,14-06-2021,POSITIVE,0.9998654127120972
+806-1861,"North York, Canada",I felt that the price could be more lacking.,14-09-2021,NEGATIVE,0.9981485605239868
+244-1024,"Mississauga, Canada","The staff were rude, which leaves a lot to be desired.",14-11-2022,NEGATIVE,0.9997267127037048
+558-3385,"North York, Canada","The staff were indifferent, which puts a damper on the meal.",12-03-2022,NEGATIVE,0.998421311378479
+218-4510,"Vancouver, Canada","The staff were welcoming, which leaves a lot to be desired.",13-03-2022,NEGATIVE,0.9874502420425415
+775-5247,"Richmond Hill, Canada","The atmosphere is excellent, it enhances the dining experience when you dine.",01-10-2022,POSITIVE,0.9998782873153687
+799-9807,"Montreal, Canada","The seafood platter was disappointing, just like you'd expect at a good restaurant.",17-09-2021,NEGATIVE,0.9967160224914551
+480-8849,"Markham, Canada","price was top-notch, that deserves praise.",24-07-2021,POSITIVE,0.9996974468231201
+311-5383,"Calgary, Canada",I felt that the food quality could be more amazing.,13-06-2021,POSITIVE,0.9861753582954407
+456-7212,"Vancouver, Canada","The atmosphere is lacking, it puts a damper on the meal when you dine.",10-09-2021,NEGATIVE,0.999017596244812
+539-1965,"Vancouver, Canada",It's lacking how the restaurant manages to keep such high standards.,16-11-2021,NEGATIVE,0.9998077750205994
+755-1455,"Barrie, Canada",I felt that the price could be more amazing.,15-08-2022,POSITIVE,0.9698497653007507
+577-2862,"Toronto, Canada","The atmosphere is mediocre, it enhances the dining experience when you dine.",19-05-2022,POSITIVE,0.9962981343269348
+388-8350,"Barrie, Canada","The atmosphere is amazing, it puts a damper on the meal when you dine.",19-07-2021,POSITIVE,0.9997496008872986
+739-3291,"Markham, Canada","I found the menu variety to be excellent, which is worth mentioning.",01-11-2022,POSITIVE,0.9997732043266296
+788-5564,"Vancouver, Canada","The atmosphere is impressive, it enhances the dining experience when you dine.",02-11-2021,POSITIVE,0.999876856803894
+619-3061,"Toronto, Canada",It's amazing how the restaurant manages to keep such high standards.,16-02-2022,POSITIVE,0.9998801946640015
+697-8339,"Markham, Canada","The vegan burger was excellent, just like you'd expect at a good restaurant.",18-07-2021,POSITIVE,0.9998108744621277
+770-1065,"Mississauga, Canada","The rib-eye steak was lacking, just like you'd expect at a good restaurant.",31-03-2021,NEGATIVE,0.9960426092147827
+964-2694,"Toronto, Canada",I felt that the price could be more excellent.,27-10-2021,NEGATIVE,0.9823895692825317
+559-4922,"Barrie, Canada","The service was excellent, really made my day!",12-06-2021,POSITIVE,0.9998667240142822
+499-2223,"Barrie, Canada","The atmosphere is lacking, it puts a damper on the meal when you dine.",24-11-2021,NEGATIVE,0.999017596244812
+411-7515,"Vancouver, Canada","The staff were welcoming, which puts a damper on the meal.",02-08-2022,POSITIVE,0.9935815334320068
+779-8281,"Calgary, Canada","I found the ambience to be disappointing, which is something I value.",20-02-2022,POSITIVE,0.9196363091468811
+853-4144,"Mississauga, Canada","I found the price to be mediocre, which is worth mentioning.",25-12-2021,NEGATIVE,0.9826923608779907
+945-3689,"Montreal, Canada","The homemade pasta was amazing, just like you'd expect at a good restaurant.",01-11-2021,POSITIVE,0.9998596906661987
+457-5712,"Barrie, Canada",I felt that the service could be more excellent.,19-02-2022,NEGATIVE,0.9116276502609253
+683-6165,"Mississauga, Canada",It's disappointing how the restaurant manages to offer a diverse menu.,21-05-2022,NEGATIVE,0.9996597766876221
+748-3035,"Markham, Canada","The rib-eye steak was impressive, just like you'd expect at a good restaurant.",21-04-2022,POSITIVE,0.9998026490211487
+392-8587,"Vancouver, Canada","I found the menu variety to be excellent, which is worth mentioning.",24-07-2021,POSITIVE,0.9997732043266296
+669-6257,"Hamilton, Canada","The price was amazing, really made my day!",15-06-2022,POSITIVE,0.9998729228973389
+754-2852,"Toronto, Canada",It's amazing how the restaurant manages to offer a diverse menu.,29-08-2021,POSITIVE,0.9998838901519775
+800-4071,"Mississauga, Canada","The rib-eye steak was impressive, just like you'd expect at a good restaurant.",02-02-2022,POSITIVE,0.9998026490211487
+580-8126,"North York, Canada","A bit disappointed with the price, was expecting something more disappointing.",01-09-2022,NEGATIVE,0.9996732473373413
+502-6070,"Markham, Canada","The atmosphere is lacking, it enhances the dining experience when you dine.",08-06-2021,POSITIVE,0.9954452514648438
+213-7854,"North York, Canada","The service was excellent, really made my day!",28-08-2021,POSITIVE,0.9998667240142822
+296-6952,"Barrie, Canada","The ambience was mediocre, really made my day!",12-01-2021,NEGATIVE,0.9962673783302307
+960-1891,"Toronto, Canada","I found the menu variety to be amazing, which is something I value.",22-10-2022,POSITIVE,0.9998708963394165
+894-9274,"Mississauga, Canada",I felt that the menu variety could be more excellent.,05-01-2022,NEGATIVE,0.9732782244682312
+615-5304,"Vancouver, Canada","I found the ambience to be disappointing, which is commendable.",04-06-2021,POSITIVE,0.9583474397659302
+392-4219,"Mississauga, Canada","The atmosphere is impressive, it puts a damper on the meal when you dine.",02-02-2022,POSITIVE,0.9995131492614746
+129-1466,"Barrie, Canada","ambience was top-notch, I would recommend to my friends.",15-03-2021,POSITIVE,0.9998075366020203
+615-2967,"Richmond Hill, Canada","A bit disappointed with the menu variety, was expecting something more amazing.",12-07-2022,NEGATIVE,0.9858514666557312
+346-4651,"Mississauga, Canada","The staff were indifferent, which puts a damper on the meal.",01-10-2022,NEGATIVE,0.998421311378479
+653-1659,"Barrie, Canada","Having an online reservation system is great, it adds a lot of convenience.",20-02-2022,POSITIVE,0.9997158646583557
+838-9729,"Toronto, Canada","The service was amazing, really made my day!",09-12-2021,POSITIVE,0.9998795986175537
+313-4999,"Toronto, Canada","service was top-notch, I will be coming back again.",20-01-2021,POSITIVE,0.9976142644882202
+209-8339,"Richmond Hill, Canada","The staff were rude, which puts a damper on the meal.",22-02-2022,NEGATIVE,0.997177004814148
+287-6774,"Montreal, Canada",It's impressive how the restaurant manages to offer a diverse menu.,02-05-2022,POSITIVE,0.9998776912689209
+171-5738,"Calgary, Canada","ambience was top-notch, I would recommend to my friends.",05-06-2021,POSITIVE,0.9998075366020203
+182-8574,"Hamilton, Canada","Having live music is great, it adds a lot of convenience.",02-03-2022,POSITIVE,0.9998596906661987
+877-7160,"Vancouver, Canada","The atmosphere is excellent, it puts a damper on the meal when you dine.",28-09-2021,POSITIVE,0.9996559619903564
+758-4531,"Barrie, Canada","The ambience was impressive, really made my day!",12-12-2021,POSITIVE,0.9998801946640015
+593-8027,"Toronto, Canada","The ambience was impressive, really made my day!",11-06-2022,POSITIVE,0.9998801946640015
+808-3887,"Hamilton, Canada","Having outdoor seating is great, it adds a lot of convenience.",13-10-2022,POSITIVE,0.9998440742492676
+717-4899,"Toronto, Canada","menu variety was top-notch, that deserves praise.",17-08-2021,POSITIVE,0.999578058719635
+107-3779,"Markham, Canada",I felt that the service could be more lacking.,23-09-2021,NEGATIVE,0.9988563060760498
+998-4445,"Toronto, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",23-09-2022,NEGATIVE,0.9983310103416443
+855-9882,"Mississauga, Canada","A bit disappointed with the service, was expecting something more disappointing.",27-10-2021,NEGATIVE,0.9997339844703674
+176-4123,"Barrie, Canada","The rib-eye steak was excellent, just like you'd expect at a good restaurant.",24-01-2022,POSITIVE,0.9997963309288025
+694-1648,"Toronto, Canada",It's impressive how the restaurant manages to keep such high standards.,01-03-2021,POSITIVE,0.9998654127120972
+743-2389,"Calgary, Canada","Having live music is great, it adds a lot of convenience.",28-10-2022,POSITIVE,0.9998596906661987
+382-7578,"Calgary, Canada","The staff were indifferent, which puts a damper on the meal.",11-03-2022,NEGATIVE,0.998421311378479
+406-8488,"Barrie, Canada",I felt that the food quality could be more impressive.,12-10-2021,POSITIVE,0.9869661331176758
+975-4447,"Markham, Canada",It's disappointing how the restaurant manages to keep such high standards.,12-02-2021,NEGATIVE,0.9996339082717896
+547-6717,"Mississauga, Canada","The atmosphere is disappointing, it enhances the dining experience when you dine.",26-11-2022,POSITIVE,0.9974265694618225
+914-7257,"Toronto, Canada","menu variety was top-notch, I would recommend to my friends.",23-02-2021,POSITIVE,0.999599277973175
+316-4679,"North York, Canada","A bit disappointed with the food quality, was expecting something more lacking.",25-05-2022,NEGATIVE,0.9997168183326721
+979-9599,"Toronto, Canada","Having an online reservation system is great, it makes me want to come back.",24-05-2022,POSITIVE,0.9985986351966858
+937-6572,"North York, Canada",I felt that the menu variety could be more lacking.,18-03-2021,NEGATIVE,0.9993981122970581
+823-5815,"Calgary, Canada","The menu variety was mediocre, really made my day!",14-05-2021,NEGATIVE,0.9984108209609985
+871-6505,"Barrie, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",17-01-2021,NEGATIVE,0.9997001886367798
+278-9123,"North York, Canada","service was top-notch, I would recommend to my friends.",02-02-2022,POSITIVE,0.9997715353965759
+549-7179,"Mississauga, Canada","The service was excellent, really made my day!",02-02-2021,POSITIVE,0.9998667240142822
+142-9590,"Toronto, Canada","The rib-eye steak was mediocre, just like you'd expect at a good restaurant.",23-11-2021,NEGATIVE,0.9862870573997498
+532-7302,"Toronto, Canada","Having live music is great, it makes me want to come back.",25-12-2021,POSITIVE,0.9996114373207092
+120-8457,"Richmond Hill, Canada","The price was disappointing, really made my day!",18-01-2021,NEGATIVE,0.9993784427642822
+152-2074,"Calgary, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",17-12-2022,NEGATIVE,0.9983310103416443
+867-5110,"Hamilton, Canada","The staff were rude, which leaves a lot to be desired.",04-06-2022,NEGATIVE,0.9997267127037048
+823-8227,"Calgary, Canada",I felt that the menu variety could be more excellent.,05-09-2022,NEGATIVE,0.9732782244682312
+374-8608,"Montreal, Canada","Having live music is great, it is a unique touch.",24-02-2021,POSITIVE,0.9998883008956909
+446-8124,"Toronto, Canada",I felt that the ambience could be more mediocre.,24-06-2022,NEGATIVE,0.9992478489875793
+668-1574,"Mississauga, Canada","The service was excellent, really made my day!",08-08-2022,POSITIVE,0.9998667240142822
+446-1908,"Mississauga, Canada","ambience was top-notch, I would recommend to my friends.",15-02-2021,POSITIVE,0.9998075366020203
+992-5798,"Vancouver, Canada","I found the menu variety to be disappointing, which is commendable.",14-02-2022,POSITIVE,0.9412035942077637
+198-2647,"Barrie, Canada","Having valet parking is great, it adds a lot of convenience.",27-01-2022,POSITIVE,0.9997803568840027
+567-6994,"Montreal, Canada","menu variety was top-notch, I would recommend to my friends.",10-04-2022,POSITIVE,0.999599277973175
+473-2519,"Calgary, Canada","The staff were helpful and courteous, which puts a damper on the meal.",10-10-2022,POSITIVE,0.9295772314071655
+615-8964,"Barrie, Canada","The seafood platter was disappointing, just like you'd expect at a good restaurant.",10-12-2021,NEGATIVE,0.9967160224914551
+109-1155,"Mississauga, Canada","The rib-eye steak was mediocre, just like you'd expect at a good restaurant.",26-10-2021,NEGATIVE,0.9862870573997498
+574-6530,"Montreal, Canada","I found the ambience to be disappointing, which is disappointing to see.",11-02-2022,NEGATIVE,0.9995607733726501
+997-5600,"Hamilton, Canada","Having live music is great, it adds a lot of convenience.",06-09-2022,POSITIVE,0.9998596906661987
+232-5955,"Montreal, Canada",It's lacking how the restaurant manages to keep such high standards.,27-11-2022,NEGATIVE,0.9998077750205994
+619-4943,"North York, Canada","The service was lacking, really made my day!",27-03-2022,NEGATIVE,0.9995104074478149
+459-2720,"Barrie, Canada",It's impressive how the restaurant manages to keep such high standards.,12-01-2021,POSITIVE,0.9998654127120972
+309-8498,"Richmond Hill, Canada","The price was amazing, really made my day!",31-12-2021,POSITIVE,0.9998729228973389
+500-9148,"Hamilton, Canada","The atmosphere is disappointing, it enhances the dining experience when you dine.",30-03-2022,POSITIVE,0.9974265694618225
+818-6610,"Calgary, Canada","The rib-eye steak was impressive, just like you'd expect at a good restaurant.",20-12-2021,POSITIVE,0.9998026490211487
+540-8383,"Toronto, Canada","The staff were rude, which leaves a lot to be desired.",20-12-2022,NEGATIVE,0.9997267127037048
+996-4606,"Richmond Hill, Canada","The service was disappointing, really made my day!",19-10-2021,NEGATIVE,0.9996739625930786
+918-8834,"Calgary, Canada",I felt that the menu variety could be more excellent.,21-03-2022,NEGATIVE,0.9732782244682312
+606-4827,"Barrie, Canada","The atmosphere is impressive, it enhances the dining experience when you dine.",27-02-2021,POSITIVE,0.999876856803894
+611-3861,"Montreal, Canada","The atmosphere is amazing, it enhances the dining experience when you dine.",16-08-2021,POSITIVE,0.9998807907104492
+607-5341,"Vancouver, Canada","The staff were indifferent, which enhances the dining experience.",21-08-2022,POSITIVE,0.9958136677742004
+457-1423,"Mississauga, Canada","The seafood platter was impressive, just like you'd expect at a good restaurant.",11-05-2021,POSITIVE,0.9998565912246704
+702-9340,"Mississauga, Canada",It's mediocre how the restaurant manages to keep such high standards.,11-09-2021,NEGATIVE,0.9993466734886169
+554-3589,"Barrie, Canada","The service was lacking, really made my day!",25-01-2021,NEGATIVE,0.9995104074478149
+537-9507,"Calgary, Canada","menu variety was top-notch, I will be coming back again.",19-07-2021,POSITIVE,0.9985097050666809
+904-7735,"Barrie, Canada","Having outdoor seating is great, it adds a lot of convenience.",04-08-2021,POSITIVE,0.9998440742492676
+902-1992,"Toronto, Canada","I found the food quality to be impressive, which is worth mentioning.",03-01-2021,POSITIVE,0.9998514652252197
+869-6532,"Hamilton, Canada","I found the food quality to be lacking, which is disappointing to see.",19-03-2021,NEGATIVE,0.9997984766960144
+444-8544,"Hamilton, Canada","The atmosphere is disappointing, it puts a damper on the meal when you dine.",27-07-2021,NEGATIVE,0.9989838004112244
+945-1811,"North York, Canada","The menu variety was mediocre, really made my day!",19-11-2022,NEGATIVE,0.9984108209609985
+726-1663,"Richmond Hill, Canada","The atmosphere is lacking, it enhances the dining experience when you dine.",21-07-2022,POSITIVE,0.9954452514648438
+441-5579,"Hamilton, Canada",It's disappointing how the restaurant manages to retain a loyal clientele.,27-12-2021,NEGATIVE,0.9995915293693542
+908-7463,"Mississauga, Canada","The ambience was excellent, really made my day!",06-09-2022,POSITIVE,0.9998782873153687
+189-8235,"Markham, Canada","I found the service to be amazing, which is worth mentioning.",25-06-2022,POSITIVE,0.9998233914375305
+686-1664,"Richmond Hill, Canada",I felt that the price could be more impressive.,30-07-2021,POSITIVE,0.8864441514015198
+274-9318,"Hamilton, Canada","The staff were rude, which enhances the dining experience.",30-07-2022,POSITIVE,0.9983187913894653
+414-9048,"Markham, Canada","A bit disappointed with the menu variety, was expecting something more impressive.",11-01-2021,NEGATIVE,0.9866803288459778
+534-4978,"North York, Canada","Having outdoor seating is great, it makes me want to come back.",14-02-2022,POSITIVE,0.9991706609725952
+611-4661,"Calgary, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,11-06-2022,POSITIVE,0.9998660087585449
+666-1546,"Toronto, Canada",It's disappointing how the restaurant manages to offer a diverse menu.,12-01-2021,NEGATIVE,0.9996597766876221
+827-3114,"Toronto, Canada","Having live music is great, it is a unique touch.",18-11-2022,POSITIVE,0.9998883008956909
+624-7092,"Richmond Hill, Canada","I found the food quality to be disappointing, which is commendable.",03-06-2022,POSITIVE,0.9502805471420288
+415-1595,"Montreal, Canada",I felt that the food quality could be more impressive.,13-08-2021,POSITIVE,0.9869661331176758
+995-1746,"Barrie, Canada","The seafood platter was amazing, just like you'd expect at a good restaurant.",13-10-2022,POSITIVE,0.9998677968978882
+212-8280,"Mississauga, Canada","The staff were indifferent, which leaves a lot to be desired.",04-02-2022,NEGATIVE,0.9997425675392151
+497-6819,"Vancouver, Canada","menu variety was top-notch, I will be coming back again.",18-05-2021,POSITIVE,0.9985097050666809
+252-4345,"Montreal, Canada","Having valet parking is great, it is a unique touch.",30-12-2021,POSITIVE,0.9998635053634644
+133-4948,"Markham, Canada","The vegan burger was excellent, just like you'd expect at a good restaurant.",13-06-2022,POSITIVE,0.9998108744621277
+784-7387,"Toronto, Canada","The seafood platter was lacking, just like you'd expect at a good restaurant.",01-08-2022,NEGATIVE,0.9980760812759399
+769-8100,"Vancouver, Canada","The staff were rude, which enhances the dining experience.",30-04-2022,POSITIVE,0.9983187913894653
+532-7343,"Markham, Canada","Having an online reservation system is great, it is a unique touch.",27-04-2022,POSITIVE,0.9998608827590942
+215-5644,"Vancouver, Canada","The staff were helpful and courteous, which enhances the dining experience.",01-05-2022,POSITIVE,0.9998432397842407
+765-8332,"Richmond Hill, Canada","The atmosphere is amazing, it enhances the dining experience when you dine.",02-03-2022,POSITIVE,0.9998807907104492
+723-9138,"Vancouver, Canada","The price was disappointing, really made my day!",04-08-2022,NEGATIVE,0.9993784427642822
+891-3153,"North York, Canada",I felt that the service could be more amazing.,24-01-2022,POSITIVE,0.9966450333595276
+352-2831,"Vancouver, Canada","I found the service to be lacking, which is disappointing to see.",14-09-2022,NEGATIVE,0.9997972846031189
+266-1110,"Markham, Canada","The service was disappointing, really made my day!",13-03-2022,NEGATIVE,0.9996739625930786
+129-8281,"Hamilton, Canada",I felt that the ambience could be more lacking.,24-12-2021,NEGATIVE,0.9986956715583801
+665-4675,"Richmond Hill, Canada","service was top-notch, that deserves praise.",18-10-2021,POSITIVE,0.9996030926704407
+412-3572,"Hamilton, Canada",I felt that the ambience could be more mediocre.,14-10-2022,NEGATIVE,0.9992478489875793
+753-4543,"Vancouver, Canada",It's excellent how the restaurant manages to offer a diverse menu.,04-01-2022,POSITIVE,0.999873161315918
+605-9557,"Montreal, Canada","price was top-notch, that deserves praise.",12-02-2021,POSITIVE,0.9996974468231201
+177-6377,"Calgary, Canada",It's excellent how the restaurant manages to retain a loyal clientele.,12-06-2022,POSITIVE,0.9998660087585449
+723-4695,"Calgary, Canada","Having live music is great, it is a unique touch.",09-01-2021,POSITIVE,0.9998883008956909
+205-8596,"Richmond Hill, Canada",I felt that the ambience could be more impressive.,09-07-2022,POSITIVE,0.9942997694015503
+861-6257,"Markham, Canada","The vegan burger was mediocre, just like you'd expect at a good restaurant.",19-01-2021,NEGATIVE,0.9685850143432617
+936-9474,"Mississauga, Canada","Having an online reservation system is great, it makes me want to come back.",27-07-2021,POSITIVE,0.9985986351966858
+509-6911,"Richmond Hill, Canada",I felt that the food quality could be more lacking.,28-06-2021,NEGATIVE,0.9994675517082214
+748-9050,"Calgary, Canada","A bit disappointed with the price, was expecting something more disappointing.",17-01-2021,NEGATIVE,0.9996732473373413
+624-7663,"Markham, Canada",I felt that the service could be more mediocre.,17-02-2022,NEGATIVE,0.999701201915741
+230-9485,"Toronto, Canada","Having live music is great, it makes me want to come back.",10-11-2021,POSITIVE,0.9996114373207092
+262-9302,"Richmond Hill, Canada","The atmosphere is excellent, it enhances the dining experience when you dine.",05-09-2021,POSITIVE,0.9998782873153687
+857-5922,"North York, Canada",It's excellent how the restaurant manages to keep such high standards.,08-06-2021,POSITIVE,0.9998593330383301
+309-5002,"Hamilton, Canada","The staff were welcoming, which leaves a lot to be desired.",19-08-2022,NEGATIVE,0.9874502420425415
+274-8240,"Toronto, Canada",I felt that the menu variety could be more lacking.,16-08-2021,NEGATIVE,0.9993981122970581
+597-3460,"Barrie, Canada","I found the ambience to be impressive, which is disappointing to see.",04-12-2022,NEGATIVE,0.9820913672447205
+731-7244,"Barrie, Canada","A bit disappointed with the price, was expecting something more impressive.",28-11-2022,NEGATIVE,0.9543344974517822
+567-1529,"Calgary, Canada","A bit disappointed with the ambience, was expecting something more amazing.",17-10-2021,NEGATIVE,0.8618274927139282
+652-5735,"Toronto, Canada",I felt that the menu variety could be more amazing.,22-10-2022,POSITIVE,0.9737040996551514
+894-9622,"Richmond Hill, Canada","The atmosphere is mediocre, it leaves a lot to be desired when you dine.",24-01-2021,NEGATIVE,0.9996678829193115
+738-9529,"Calgary, Canada","I found the food quality to be lacking, which is disappointing to see.",07-11-2021,NEGATIVE,0.9997984766960144
+990-5421,"Barrie, Canada",It's amazing how the restaurant manages to offer a diverse menu.,17-05-2021,POSITIVE,0.9998838901519775
+936-5275,"Mississauga, Canada","The atmosphere is disappointing, it leaves a lot to be desired when you dine.",15-07-2022,NEGATIVE,0.9997001886367798
+914-4050,"Richmond Hill, Canada","The seafood platter was excellent, just like you'd expect at a good restaurant.",09-05-2021,POSITIVE,0.9998506307601929
+110-7670,"Toronto, Canada","I found the ambience to be disappointing, which is worth mentioning.",27-10-2021,NEGATIVE,0.991943359375
+829-2340,"Barrie, Canada",It's lacking how the restaurant manages to keep such high standards.,08-09-2022,NEGATIVE,0.9998077750205994
+150-3095,"Toronto, Canada",It's lacking how the restaurant manages to keep such high standards.,29-01-2021,NEGATIVE,0.9998077750205994
+477-7223,"Montreal, Canada",I felt that the ambience could be more amazing.,13-02-2021,POSITIVE,0.9976504445075989
+868-3240,"Barrie, Canada","Having outdoor seating is great, it is a unique touch.",13-12-2021,POSITIVE,0.9998788833618164
+502-5178,"Markham, Canada","A bit disappointed with the menu variety, was expecting something more mediocre.",22-10-2021,NEGATIVE,0.9997679591178894
+766-2937,"Vancouver, Canada","The vegan burger was lacking, just like you'd expect at a good restaurant.",07-01-2021,NEGATIVE,0.9983310103416443
+593-8500,"Vancouver, Canada","Having an online reservation system is great, it is a unique touch.",20-01-2021,POSITIVE,0.9998608827590942
+386-2739,"North York, Canada",I felt that the ambience could be more impressive.,10-11-2022,POSITIVE,0.9942997694015503
+991-6322,"Vancouver, Canada",It's disappointing how the restaurant manages to keep such high standards.,10-02-2022,NEGATIVE,0.9996339082717896
+273-7753,"Markham, Canada","The staff were welcoming, which puts a damper on the meal.",21-05-2021,POSITIVE,0.9935815334320068
+105-9336,"Markham, Canada",I felt that the service could be more amazing.,08-10-2022,POSITIVE,0.9966450333595276
+802-3000,"Barrie, Canada","service was top-notch, I will be coming back again.",29-04-2022,POSITIVE,0.9976142644882202
+118-8226,"North York, Canada","I found the menu variety to be mediocre, which is something I value.",01-06-2022,NEGATIVE,0.8652836084365845
+643-8669,"Montreal, Canada","Having valet parking is great, it adds a lot of convenience.",28-01-2022,POSITIVE,0.9997803568840027
+687-3037,"Toronto, Canada",It's mediocre how the restaurant manages to offer a diverse menu.,30-06-2021,NEGATIVE,0.9993835687637329
+679-8644,"Richmond Hill, Canada","The ambience was excellent, really made my day!",06-10-2021,POSITIVE,0.9998782873153687
+747-9294,"North York, Canada","The rib-eye steak was disappointing, just like you'd expect at a good restaurant.",30-04-2022,NEGATIVE,0.9931027889251709
+559-4603,"Markham, Canada","The price was disappointing, really made my day!",25-04-2021,NEGATIVE,0.9993784427642822
+379-5727,"Barrie, Canada","The atmosphere is impressive, it puts a damper on the meal when you dine.",23-02-2021,POSITIVE,0.9995131492614746
+441-6847,"Mississauga, Canada","A bit disappointed with the service, was expecting something more mediocre.",13-04-2021,NEGATIVE,0.9997335076332092
+466-2743,"Hamilton, Canada","The staff were indifferent, which puts a damper on the meal.",09-03-2021,NEGATIVE,0.998421311378479
+392-4499,"Hamilton, Canada",I felt that the service could be more disappointing.,22-09-2022,NEGATIVE,0.9995256662368774
+895-7976,"Markham, Canada","I found the service to be impressive, which is something I value.",09-04-2022,POSITIVE,0.9998524188995361
+243-3374,"Hamilton, Canada","menu variety was top-notch, I would recommend to my friends.",06-11-2022,POSITIVE,0.999599277973175
+623-2671,"Vancouver, Canada",I felt that the service could be more disappointing.,26-05-2021,NEGATIVE,0.9995256662368774
+837-2793,"Markham, Canada","A bit disappointed with the ambience, was expecting something more lacking.",27-08-2021,NEGATIVE,0.9996377229690552
+375-3127,"Calgary, Canada","The seafood platter was disappointing, just like you'd expect at a good restaurant.",27-01-2021,NEGATIVE,0.9967160224914551
+866-4243,"Calgary, Canada","Having an online reservation system is great, it makes me want to come back.",02-08-2022,POSITIVE,0.9985986351966858
+925-4855,"Vancouver, Canada",It's impressive how the restaurant manages to keep such high standards.,15-11-2022,POSITIVE,0.9998654127120972
+902-4424,"Calgary, Canada","The menu variety was impressive, really made my day!",23-01-2021,POSITIVE,0.9998639822006226
+734-8392,"North York, Canada","The staff were indifferent, which puts a damper on the meal.",06-02-2022,NEGATIVE,0.998421311378479
