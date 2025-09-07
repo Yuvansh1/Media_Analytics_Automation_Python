@@ -1,0 +1,64 @@
+{
+  "document_title": "Hand Safety",
+  "content_type": "short story",
+  "summary": "Ole, while working at a fish plant in Duluth, accidentally severs all his fingers.  He goes to the emergency room where a doctor expresses surprise at Ole's lack of fingers, given the advancements in microsurgery. Ole's response highlights the absurdity of the situation.",
+  "characters": [
+    {
+      "name": "Ole",
+      "role": "worker, patient",
+      "notable_details": [
+        "accidentally cuts off fingers",
+        "works at fish plant"
+      ]
+    },
+    {
+      "name": "Norsky doctor",
+      "role": "emergency room physician",
+      "notable_details": [
+        "surprised by Ole's missing fingers",
+        "offers microsurgery"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "fish plant",
+      "region": "Duluth",
+      "context": "where Ole works and has his accident"
+    },
+    {
+      "name": "emergency room",
+      "region": "klinik",
+      "context": "where Ole seeks treatment"
+    }
+  ],
+  "time_references": [
+    {
+      "year": 2009,
+      "context": "the year microsurgery is mentioned"
+    }
+  ],
+  "key_events": [
+    "Ole cuts off all his fingers at a fish plant.",
+    "He visits the emergency room of a clinic.",
+    "The doctor is surprised Ole did not bring his severed fingers.",
+    "Ole questions how he was supposed to retrieve them."
+  ],
+  "quotes": [
+    "Let's have da finkers and I'll see what I can do.",
+    "I haven't got da finkers.",
+    "Vhat do you mean, you hafen't got da finkers?",
+    "How da heck vas I suppose to pick dem up?"
+  ],
+  "language_style_notes": {
+    "dialect": "Northern Minnesota dialect",
+    "examples": [
+      "da",
+      "vhen",
+      "finkers",
+      "nort",
+      "hafen't"
+    ]
+  },
+  "word_count_estimate": 100
+}
