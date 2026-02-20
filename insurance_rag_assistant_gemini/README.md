@@ -5,6 +5,7 @@
 ![Pinecone](https://img.shields.io/badge/VectorDB-Pinecone-purple)
 ![Gemini](https://img.shields.io/badge/LLM-Gemini-orange)
 ![RAG](https://img.shields.io/badge/Architecture-RAG-red)
+![Docker](https://img.shields.io/badge/Containerized-Docker-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 Enterprise grade Retrieval Augmented Generation system for insurance customer support.
@@ -15,6 +16,7 @@ Built using:
 * Gemini LLM
 * Pinecone Serverless Vector Index
 * FastAPI REST API
+* Docker Containerization
 
 ---
 
@@ -48,7 +50,7 @@ This project implements a scalable RAG architecture to provide context grounded 
                             ▼
                ┌──────────────────────────┐
                │ Pinecone Vector Database │
-               │  Namespace: insurance    │
+               │ Namespace: insurance_support │
                └──────────┬───────────────┘
                           │ Top-K Results
                           ▼
@@ -58,8 +60,10 @@ This project implements a scalable RAG architecture to provide context grounded 
                 └──────────┬───────────┘
                            ▼
                   ┌─────────────────┐
-                  │  Final Response │
-                  └─────────────────┘
+                  │  FastAPI Layer  │
+                  └──────────┬──────┘
+                             ▼
+                      JSON Response
 ```
 
 ---
@@ -70,33 +74,44 @@ This project implements a scalable RAG architecture to provide context grounded 
 
 * Model: `gemini-embedding-001`
 * Output dimension: 1536
-* Normalized for cosine similarity
-* Compatible with Pinecone serverless index
+* L2 normalized for cosine similarity
+* Optimized for Pinecone cosine metric alignment
+
+---
 
 ## 2️⃣ Vector Storage
 
 * Pinecone Serverless Index
 * Metric: Cosine similarity
-* Namespace based isolation
-* Scalable to millions of policy clauses
+* Namespace isolation
+* Horizontally scalable
+* Metadata stored for contextual grounding
+
+---
 
 ## 3️⃣ Retrieval Layer
 
-* Top K similarity search
-* Namespace filtered
-* Metadata preserved for context injection
+* Top K semantic similarity search
+* Namespace filtered queries
+* Context aggregation from metadata
+* Deterministic context injection
+
+---
 
 ## 4️⃣ Generation Layer
 
-* Gemini 2.5 Flash
-* Prompt grounded in retrieved context
-* No external hallucinated knowledge
+* Model: `gemini-2.5-flash`
+* Strict context constrained prompting
+* Hallucination minimized through grounding
+
+---
 
 ## 5️⃣ API Layer
 
 * FastAPI
-* Swagger documentation
 * REST endpoint: `/ask`
+* Swagger auto documentation at `/docs`
+* Stateless microservice design
 
 ---
 
@@ -106,6 +121,9 @@ This project implements a scalable RAG architecture to provide context grounded 
 insurance_rag_assistant/
 │
 ├── main.py
+├── Dockerfile
+├── docker-compose.yml
+├── .dockerignore
 ├── .env
 ├── requirements.txt
 ├── README.md
@@ -125,15 +143,15 @@ GEMINI_API_KEY=your_key
 
 ---
 
-# ⚙️ Setup
+# ⚙️ Local Setup
 
-### Install
+### Install Dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### Run
+### Run Application
 
 ```
 uvicorn main:app --reload
@@ -147,39 +165,90 @@ http://127.0.0.1:8000/docs
 
 ---
 
+# 🐳 Docker Deployment
+
+Containerized deployment ensures environment consistency and cloud readiness.
+
+## Build Docker Image
+
+```
+pip freeze > requirements.txt
+
+docker build -t insurance-rag .
+```
+
+## Run Container
+
+```
+docker run -p 8000:8000 --env-file .env insurance-rag
+```
+
+Access API:
+
+```
+http://localhost:8000/docs
+```
+
+---
+
+## 🐳 Docker Compose Deployment
+
+For cleaner environment variable handling:
+
+```
+docker compose up --build
+```
+Open in your Browser:
+
+```
+http://localhost:8000/docs
+
+```
+
+from your local environment.
+
+---
+
 # 🔎 Example Query
 
 ```
 Does home insurance cover flooding?
 ```
+## 📸 Project Preview
 
-System:
+![Insurance RAG Architecture](fast_api_output.png)
 
-* Embeds query
-* Retrieves relevant clauses
-* Generates grounded response
-* Returns JSON
+System flow:
+
+1. Embed query
+2. Retrieve top matching clauses
+3. Inject contextual metadata
+4. Generate grounded answer
+5. Return structured JSON
 
 ---
 
 # 📈 Enterprise Features
 
 * Namespace based index partitioning
-* Embedding dimensional alignment
-* Context constrained generation
-* API level deployment
-* Modular architecture
-* Production safe environment variables
+* Embedding normalization alignment
+* Context constrained LLM generation
+* Stateless API microservice
+* Docker containerization
+* Production safe environment variable management
+* Modular architecture design
 
 ---
 
 # 🚀 Scalability Considerations
 
-* Can ingest large policy datasets
-* Extendable to fraud detection
-* Extendable to claims similarity search
+* Bulk ingestion pipeline for policy PDFs
+* Async embedding pipeline
+* Fraud detection extension
+* Claims similarity search
 * Horizontal scaling via Pinecone serverless
-* Deployable via Docker / Kubernetes
+* Kubernetes deployable container
+* CI/CD ready
 
 ---
 
@@ -188,19 +257,9 @@ System:
 Demonstrates:
 
 * Vector database architecture
-* RAG system design
-* Embedding optimization
-* LLM prompt grounding
-* API engineering
+* End to end RAG system design
+* Embedding engineering
+* Prompt grounding strategies
+* API microservice architecture
+* Containerized AI deployment
 * Production deployment patterns
-
----
-
-# 🔮 Roadmap
-
-* PDF ingestion pipeline
-* Claim similarity clustering
-* Fraud anomaly detection
-* Role based authentication
-* Observability and logging
-* CI/CD integration
